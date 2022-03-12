@@ -13,7 +13,7 @@ class BublleSort: ArraySort {
         
         if arr.count <= 1 { return arr }
         var list = arr;
-        for end in (0..<arr.count - 1).reversed() {
+        for end in (0..<arr.count).reversed() {
             for i in 0..<end {
                 if list[i] > list[i + 1] {
                     (list[i], list[i + 1]) = (list[i + 1], list[i])
