@@ -13,6 +13,7 @@
 		30C908C029BA0836000F46AF /* SortTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908BF29BA0836000F46AF /* SortTest.swift */; };
 		30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908C129BA243C000F46AF /* SelectionSort.swift */; };
 		30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908C329BA26DA000F46AF /* InsertionSort.swift */; };
+		30C908C629BA2922000F46AF /* MergeSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908C529BA2922000F46AF /* MergeSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		30C908BF29BA0836000F46AF /* SortTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortTest.swift; sourceTree = "<group>"; };
 		30C908C129BA243C000F46AF /* SelectionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionSort.swift; sourceTree = "<group>"; };
 		30C908C329BA26DA000F46AF /* InsertionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSort.swift; sourceTree = "<group>"; };
+		30C908C529BA2922000F46AF /* MergeSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				30C908BF29BA0836000F46AF /* SortTest.swift */,
 				30C908C129BA243C000F46AF /* SelectionSort.swift */,
 				30C908C329BA26DA000F46AF /* InsertionSort.swift */,
+				30C908C529BA2922000F46AF /* MergeSort.swift */,
 			);
 			path = Sort;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
+				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
 			);
