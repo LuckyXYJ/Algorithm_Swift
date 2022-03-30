@@ -9,4 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
-SortTest.test()
+//SortTest.test()
+LeetCodeTest.test()
+
