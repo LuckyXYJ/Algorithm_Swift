@@ -20,6 +20,7 @@
 		30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908CE29BB1B03000F46AF /* LeetCodeTest.swift */; };
 		30C908D129BB1F48000F46AF /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D029BB1F48000F46AF /* ListNode.swift */; };
 		30C908D329BB1FCE000F46AF /* LeetCode21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D229BB1FCE000F46AF /* LeetCode21.swift */; };
+		30C908D529BB2277000F46AF /* LeetCode23.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D429BB2277000F46AF /* LeetCode23.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		30C908CE29BB1B03000F46AF /* LeetCodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeTest.swift; sourceTree = "<group>"; };
 		30C908D029BB1F48000F46AF /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		30C908D229BB1FCE000F46AF /* LeetCode21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode21.swift; sourceTree = "<group>"; };
+		30C908D429BB2277000F46AF /* LeetCode23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode23.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				30C908CA29BB1982000F46AF /* LeetCode.swift */,
 				30C908CC29BB1A0A000F46AF /* LeetCode88.swift */,
 				30C908D229BB1FCE000F46AF /* LeetCode21.swift */,
+				30C908D429BB2277000F46AF /* LeetCode23.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
+				30C908D529BB2277000F46AF /* LeetCode23.swift in Sources */,
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */,
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
