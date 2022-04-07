@@ -50,8 +50,7 @@ class LeetCode23 {
     }
 }
 
-
-/// 优先级队列优化 
+/// 优先级队列优化
 class LeetCode23_1 {
     class Solution {
         func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
