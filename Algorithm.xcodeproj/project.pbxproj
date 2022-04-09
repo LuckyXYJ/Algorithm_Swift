@@ -21,6 +21,7 @@
 		30C908D129BB1F48000F46AF /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D029BB1F48000F46AF /* ListNode.swift */; };
 		30C908D329BB1FCE000F46AF /* LeetCode21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D229BB1FCE000F46AF /* LeetCode21.swift */; };
 		30C908D529BB2277000F46AF /* LeetCode23.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D429BB2277000F46AF /* LeetCode23.swift */; };
+		30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D829BB30D6000F46AF /* QuickSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		30C908D029BB1F48000F46AF /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		30C908D229BB1FCE000F46AF /* LeetCode21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode21.swift; sourceTree = "<group>"; };
 		30C908D429BB2277000F46AF /* LeetCode23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode23.swift; sourceTree = "<group>"; };
+		30C908D829BB30D6000F46AF /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				30C908C329BA26DA000F46AF /* InsertionSort.swift */,
 				30C908C529BA2922000F46AF /* MergeSort.swift */,
 				30C908C729BB0FED000F46AF /* HeapSort.swift */,
+				30C908D829BB30D6000F46AF /* QuickSort.swift */,
 			);
 			path = Sort;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30C908D329BB1FCE000F46AF /* LeetCode21.swift in Sources */,
+				30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */,
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
