@@ -22,6 +22,7 @@
 		30C908D329BB1FCE000F46AF /* LeetCode21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D229BB1FCE000F46AF /* LeetCode21.swift */; };
 		30C908D529BB2277000F46AF /* LeetCode23.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D429BB2277000F46AF /* LeetCode23.swift */; };
 		30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908D829BB30D6000F46AF /* QuickSort.swift */; };
+		30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908DA29BB3E42000F46AF /* ShellSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		30C908D229BB1FCE000F46AF /* LeetCode21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode21.swift; sourceTree = "<group>"; };
 		30C908D429BB2277000F46AF /* LeetCode23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode23.swift; sourceTree = "<group>"; };
 		30C908D829BB30D6000F46AF /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
+		30C908DA29BB3E42000F46AF /* ShellSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShellSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				30C908C529BA2922000F46AF /* MergeSort.swift */,
 				30C908C729BB0FED000F46AF /* HeapSort.swift */,
 				30C908D829BB30D6000F46AF /* QuickSort.swift */,
+				30C908DA29BB3E42000F46AF /* ShellSort.swift */,
 			);
 			path = Sort;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */,
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
+				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
 				30C908CD29BB1A0A000F46AF /* LeetCode88.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
