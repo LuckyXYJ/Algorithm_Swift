@@ -15,7 +15,6 @@ class ShellSort: ArraySort {
 //        let stepList = sedgewichStepSequence(arr: list);
         let stepList = shellStepSequence(arr: list);
         
-        ArrayPrint.printArr(arr: stepList)
         
         for i in stepList {
             shellSort(arr: &list, step: i);
