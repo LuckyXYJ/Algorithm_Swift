@@ -25,6 +25,7 @@
 		30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908DA29BB3E42000F46AF /* ShellSort.swift */; };
 		30C908DD29BB3E7D000F46AF /* CountSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908DC29BB3E7D000F46AF /* CountSort.swift */; };
 		30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908DE29BB7738000F46AF /* RadixSort.swift */; };
+		30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E029BB7ABA000F46AF /* BucketSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -59,6 +60,7 @@
 		30C908DA29BB3E42000F46AF /* ShellSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShellSort.swift; sourceTree = "<group>"; };
 		30C908DC29BB3E7D000F46AF /* CountSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSort.swift; sourceTree = "<group>"; };
 		30C908DE29BB7738000F46AF /* RadixSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadixSort.swift; sourceTree = "<group>"; };
+		30C908E029BB7ABA000F46AF /* BucketSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				30C908DA29BB3E42000F46AF /* ShellSort.swift */,
 				30C908DC29BB3E7D000F46AF /* CountSort.swift */,
 				30C908DE29BB7738000F46AF /* RadixSort.swift */,
+				30C908E029BB7ABA000F46AF /* BucketSort.swift */,
 			);
 			path = Sort;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
+				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C908D529BB2277000F46AF /* LeetCode23.swift in Sources */,
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
