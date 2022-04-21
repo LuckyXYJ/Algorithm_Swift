@@ -115,4 +115,27 @@ class fibRecursion4 {
     }
 }
 
+/**
+    优化-
+    仅用两个数存放中间数据
+    时间复杂度降低O(n)，
+    空间复杂度O(1)
+ */
+class fibRecursion5 {
+    
+    static func fib(_ n: Int) -> Int {
+        
+        if n < 3 { return 1 }
+        
+        var left = 1
+        var right = 1
+        for _ in 3..<n {
+            right = left + right
+            left = right - left
+        }
+        return right
+    }
+}
+
+
 
