@@ -138,4 +138,15 @@ class fibRecursion5 {
 }
 
 
-
+/**
+    优化- 数学计算-最为强大
+    时间、空间复杂度取决于pow函数，至少低至O(logn)
+ */
+class fibRecursion6 {
+    
+    static func fib(_ n: Int) -> Int {
+        
+        let c = sqrt(5)
+        return Int((pow((1+c)/2, Double(n)) - pow((1-c)/2, Double(n)))/c)
+    }
+}
