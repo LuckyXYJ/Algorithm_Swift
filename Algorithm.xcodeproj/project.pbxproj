@@ -26,6 +26,7 @@
 		30C908DD29BB3E7D000F46AF /* CountSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908DC29BB3E7D000F46AF /* CountSort.swift */; };
 		30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908DE29BB7738000F46AF /* RadixSort.swift */; };
 		30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E029BB7ABA000F46AF /* BucketSort.swift */; };
+		30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +62,7 @@
 		30C908DC29BB3E7D000F46AF /* CountSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSort.swift; sourceTree = "<group>"; };
 		30C908DE29BB7738000F46AF /* RadixSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadixSort.swift; sourceTree = "<group>"; };
 		30C908E029BB7ABA000F46AF /* BucketSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketSort.swift; sourceTree = "<group>"; };
+		30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RS_斐波那契数列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		30C908B029B9E191000F46AF /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				30C908E229BB7D6D000F46AF /* Recursion递归 */,
 				30C908C929BB1955000F46AF /* LeetCode */,
 				30C908B829BA0101000F46AF /* Sort */,
 				30C908B129B9E191000F46AF /* main.swift */,
@@ -130,6 +133,14 @@
 				30C908D429BB2277000F46AF /* LeetCode23.swift */,
 			);
 			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		30C908E229BB7D6D000F46AF /* Recursion递归 */ = {
+			isa = PBXGroup;
+			children = (
+				30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */,
+			);
+			path = "Recursion递归";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,6 +208,7 @@
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
+				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
 				30C908D529BB2277000F46AF /* LeetCode23.swift in Sources */,
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */,
