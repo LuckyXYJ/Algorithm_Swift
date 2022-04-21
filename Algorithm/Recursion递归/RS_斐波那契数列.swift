@@ -73,3 +73,25 @@ class fibRecursion2 {
     
 }
 
+/**
+    优化
+    仅用两个数据存放中间数据
+    时间复杂度降低O(n)，
+    空间复杂度O(1)
+ */
+class fibRecursion3 {
+    
+    static func fib(_ n: Int) -> Int {
+        
+        if n < 3 { return 1 }
+        
+        var arr = [Int].init(repeating: 0, count: 2)
+        arr[1] = 1
+        arr[0] = 1
+        for i in 3..<n {
+            arr[i%2] = arr[(i-1)%2] + arr[(i-2)%2]
+        }
+        return arr[n%2]
+    }
+}
+
