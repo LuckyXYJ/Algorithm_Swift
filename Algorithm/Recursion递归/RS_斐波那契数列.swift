@@ -95,3 +95,24 @@ class fibRecursion3 {
     }
 }
 
+/**
+    优化- 位运算取代模运算
+    仅用两个数据存放中间数据
+    时间复杂度降低O(n)，
+    空间复杂度O(1)
+ */
+class fibRecursion4 {
+    
+    static func fib(_ n: Int) -> Int {
+        
+        if n < 3 { return 1 }
+        
+        var arr = [Int].init(repeating: 1, count: 2)
+        for i in 3..<n {
+            arr[i&1] = arr[(i-1)&1] + arr[(i-2)&1]
+        }
+        return arr[n&1]
+    }
+}
+
+
