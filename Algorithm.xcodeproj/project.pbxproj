@@ -27,6 +27,7 @@
 		30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908DE29BB7738000F46AF /* RadixSort.swift */; };
 		30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E029BB7ABA000F46AF /* BucketSort.swift */; };
 		30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */; };
+		30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		30C908DE29BB7738000F46AF /* RadixSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadixSort.swift; sourceTree = "<group>"; };
 		30C908E029BB7ABA000F46AF /* BucketSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketSort.swift; sourceTree = "<group>"; };
 		30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RS_斐波那契数列.swift"; sourceTree = "<group>"; };
+		30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RS_汉诺塔.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 			isa = PBXGroup;
 			children = (
 				30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */,
+				30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */,
 			);
 			path = "Recursion递归";
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
+				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
 				30C908D529BB2277000F46AF /* LeetCode23.swift in Sources */,
