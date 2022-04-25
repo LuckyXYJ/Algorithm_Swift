@@ -28,6 +28,7 @@
 		30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E029BB7ABA000F46AF /* BucketSort.swift */; };
 		30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */; };
 		30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */; };
+		30C908E929BB7FBA000F46AF /* Queens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E829BB7FBA000F46AF /* Queens.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		30C908E029BB7ABA000F46AF /* BucketSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketSort.swift; sourceTree = "<group>"; };
 		30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RS_斐波那契数列.swift"; sourceTree = "<group>"; };
 		30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RS_汉诺塔.swift"; sourceTree = "<group>"; };
+		30C908E829BB7FBA000F46AF /* Queens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queens.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		30C908B029B9E191000F46AF /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				30C908E729BB7FA5000F46AF /* BackTracking回溯 */,
 				30C908E229BB7D6D000F46AF /* Recursion递归 */,
 				30C908C929BB1955000F46AF /* LeetCode */,
 				30C908B829BA0101000F46AF /* Sort */,
@@ -144,6 +147,14 @@
 				30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */,
 			);
 			path = "Recursion递归";
+			sourceTree = "<group>";
+		};
+		30C908E729BB7FA5000F46AF /* BackTracking回溯 */ = {
+			isa = PBXGroup;
+			children = (
+				30C908E829BB7FBA000F46AF /* Queens.swift */,
+			);
+			path = "BackTracking回溯";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -224,6 +235,7 @@
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
 				30C908C829BB0FED000F46AF /* HeapSort.swift in Sources */,
+				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
 				30C908D129BB1F48000F46AF /* ListNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
