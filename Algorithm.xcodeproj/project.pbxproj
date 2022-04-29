@@ -29,6 +29,7 @@
 		30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */; };
 		30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */; };
 		30C908E929BB7FBA000F46AF /* Queens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E829BB7FBA000F46AF /* Queens.swift */; };
+		30C908EB29BB8497000F46AF /* LC_46_全排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EA29BB8497000F46AF /* LC_46_全排列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +68,7 @@
 		30C908E329BB7D98000F46AF /* RS_斐波那契数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RS_斐波那契数列.swift"; sourceTree = "<group>"; };
 		30C908E529BB7E83000F46AF /* RS_汉诺塔.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RS_汉诺塔.swift"; sourceTree = "<group>"; };
 		30C908E829BB7FBA000F46AF /* Queens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queens.swift; sourceTree = "<group>"; };
+		30C908EA29BB8497000F46AF /* LC_46_全排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_46_全排列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				30C908CC29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift */,
 				30C908D229BB1FCE000F46AF /* LC_21_合并两个有序链表.swift */,
 				30C908D429BB2277000F46AF /* LC_23_合并K个升序链表.swift */,
+				30C908EA29BB8497000F46AF /* LC_46_全排列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				30C908D529BB2277000F46AF /* LC_23_合并K个升序链表.swift in Sources */,
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */,
+				30C908EB29BB8497000F46AF /* LC_46_全排列.swift in Sources */,
 				30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */,
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
 				30C908DD29BB3E7D000F46AF /* CountSort.swift in Sources */,
