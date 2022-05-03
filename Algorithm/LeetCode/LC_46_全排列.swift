@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class LC_46_全排列 {
     var res = [[Int]]()
     func permute(_ nums: [Int]) -> [[Int]] {
         var visited = Array(repeating: false, count: nums.count)

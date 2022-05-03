@@ -31,6 +31,7 @@
 		30C908E929BB7FBA000F46AF /* Queens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908E829BB7FBA000F46AF /* Queens.swift */; };
 		30C908EB29BB8497000F46AF /* LC_46_全排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EA29BB8497000F46AF /* LC_46_全排列.swift */; };
 		30C908ED29BB8572000F46AF /* LC_47_全排列2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EC29BB8572000F46AF /* LC_47_全排列2.swift */; };
+		30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -71,6 +72,7 @@
 		30C908E829BB7FBA000F46AF /* Queens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queens.swift; sourceTree = "<group>"; };
 		30C908EA29BB8497000F46AF /* LC_46_全排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_46_全排列.swift"; sourceTree = "<group>"; };
 		30C908EC29BB8572000F46AF /* LC_47_全排列2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_47_全排列2.swift"; sourceTree = "<group>"; };
+		30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_39_组合总和.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				30C908D429BB2277000F46AF /* LC_23_合并K个升序链表.swift */,
 				30C908EA29BB8497000F46AF /* LC_46_全排列.swift */,
 				30C908EC29BB8572000F46AF /* LC_47_全排列2.swift */,
+				30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */,
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
+				30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,

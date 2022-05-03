@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class LC_47_全排列2 {
     var res = [[Int]]()
     func permuteUnique(_ nums: [Int]) -> [[Int]] {
         let arr = nums.sorted()
