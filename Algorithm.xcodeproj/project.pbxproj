@@ -32,6 +32,7 @@
 		30C908EB29BB8497000F46AF /* LC_46_全排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EA29BB8497000F46AF /* LC_46_全排列.swift */; };
 		30C908ED29BB8572000F46AF /* LC_47_全排列2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EC29BB8572000F46AF /* LC_47_全排列2.swift */; };
 		30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */; };
+		30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -73,6 +74,7 @@
 		30C908EA29BB8497000F46AF /* LC_46_全排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_46_全排列.swift"; sourceTree = "<group>"; };
 		30C908EC29BB8572000F46AF /* LC_47_全排列2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_47_全排列2.swift"; sourceTree = "<group>"; };
 		30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_39_组合总和.swift"; sourceTree = "<group>"; };
+		30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_40_组合总和 II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				30C908EA29BB8497000F46AF /* LC_46_全排列.swift */,
 				30C908EC29BB8572000F46AF /* LC_47_全排列2.swift */,
 				30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */,
+				30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
+				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
 				30C908C829BB0FED000F46AF /* HeapSort.swift in Sources */,
 				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
