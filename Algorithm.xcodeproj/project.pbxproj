@@ -34,6 +34,7 @@
 		30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */; };
 		30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */; };
 		30C908F329BB8790000F46AF /* LC_78_子集.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F229BB8790000F46AF /* LC_78_子集.swift */; };
+		30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F429BB87F2000F46AF /* LC_90_子集2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -77,6 +78,7 @@
 		30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_39_组合总和.swift"; sourceTree = "<group>"; };
 		30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_40_组合总和 II.swift"; sourceTree = "<group>"; };
 		30C908F229BB8790000F46AF /* LC_78_子集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_78_子集.swift"; sourceTree = "<group>"; };
+		30C908F429BB87F2000F46AF /* LC_90_子集2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_90_子集2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				30C908EE29BB861E000F46AF /* LC_39_组合总和.swift */,
 				30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */,
 				30C908F229BB8790000F46AF /* LC_78_子集.swift */,
+				30C908F429BB87F2000F46AF /* LC_90_子集2.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				30C908F329BB8790000F46AF /* LC_78_子集.swift in Sources */,
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
+				30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */,
 				30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
