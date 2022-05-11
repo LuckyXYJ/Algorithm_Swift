@@ -35,6 +35,7 @@
 		30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */; };
 		30C908F329BB8790000F46AF /* LC_78_子集.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F229BB8790000F46AF /* LC_78_子集.swift */; };
 		30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F429BB87F2000F46AF /* LC_90_子集2.swift */; };
+		30C908F829BB8898000F46AF /* Knapsack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F729BB8898000F46AF /* Knapsack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -79,6 +80,7 @@
 		30C908F029BB8685000F46AF /* LC_40_组合总和 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_40_组合总和 II.swift"; sourceTree = "<group>"; };
 		30C908F229BB8790000F46AF /* LC_78_子集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_78_子集.swift"; sourceTree = "<group>"; };
 		30C908F429BB87F2000F46AF /* LC_90_子集2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_90_子集2.swift"; sourceTree = "<group>"; };
+		30C908F729BB8898000F46AF /* Knapsack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knapsack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 		30C908A529B9E191000F46AF = {
 			isa = PBXGroup;
 			children = (
+				30C908F629BB8887000F46AF /* Greedy贪心 */,
 				30C908B029B9E191000F46AF /* Algorithm */,
 				30C908AF29B9E191000F46AF /* Products */,
 			);
@@ -173,6 +176,14 @@
 				30C908E829BB7FBA000F46AF /* Queens.swift */,
 			);
 			path = "BackTracking回溯";
+			sourceTree = "<group>";
+		};
+		30C908F629BB8887000F46AF /* Greedy贪心 */ = {
+			isa = PBXGroup;
+			children = (
+				30C908F729BB8898000F46AF /* Knapsack.swift */,
+			);
+			path = "Greedy贪心";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -255,6 +266,7 @@
 				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
+				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
 				30C908C829BB0FED000F46AF /* HeapSort.swift in Sources */,
