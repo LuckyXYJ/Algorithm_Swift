@@ -37,6 +37,7 @@
 		30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F429BB87F2000F46AF /* LC_90_子集2.swift */; };
 		30C908F829BB8898000F46AF /* Knapsack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F729BB8898000F46AF /* Knapsack.swift */; };
 		30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F929BB891C000F46AF /* LC_455_分发饼干.swift */; };
+		30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +84,7 @@
 		30C908F429BB87F2000F46AF /* LC_90_子集2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_90_子集2.swift"; sourceTree = "<group>"; };
 		30C908F729BB8898000F46AF /* Knapsack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knapsack.swift; sourceTree = "<group>"; };
 		30C908F929BB891C000F46AF /* LC_455_分发饼干.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_455_分发饼干.swift"; sourceTree = "<group>"; };
+		30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_452_用最少数量的箭引爆气球.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				30C908F229BB8790000F46AF /* LC_78_子集.swift */,
 				30C908F429BB87F2000F46AF /* LC_90_子集2.swift */,
 				30C908F929BB891C000F46AF /* LC_455_分发饼干.swift */,
+				30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
 				30C908C829BB0FED000F46AF /* HeapSort.swift in Sources */,
 				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
+				30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */,
 				30C908ED29BB8572000F46AF /* LC_47_全排列2.swift in Sources */,
 				30C908D129BB1F48000F46AF /* ListNode.swift in Sources */,
 			);
