@@ -38,6 +38,7 @@
 		30C908F829BB8898000F46AF /* Knapsack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F729BB8898000F46AF /* Knapsack.swift */; };
 		30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908F929BB891C000F46AF /* LC_455_分发饼干.swift */; };
 		30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */; };
+		30C908FE29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -85,6 +86,7 @@
 		30C908F729BB8898000F46AF /* Knapsack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knapsack.swift; sourceTree = "<group>"; };
 		30C908F929BB891C000F46AF /* LC_455_分发饼干.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_455_分发饼干.swift"; sourceTree = "<group>"; };
 		30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_452_用最少数量的箭引爆气球.swift"; sourceTree = "<group>"; };
+		30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_122_买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 				30C908F429BB87F2000F46AF /* LC_90_子集2.swift */,
 				30C908F929BB891C000F46AF /* LC_455_分发饼干.swift */,
 				30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */,
+				30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
 				30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */,
 				30C908ED29BB8572000F46AF /* LC_47_全排列2.swift in Sources */,
+				30C908FE29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift in Sources */,
 				30C908D129BB1F48000F46AF /* ListNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
