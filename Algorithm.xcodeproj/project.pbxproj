@@ -40,6 +40,7 @@
 		30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */; };
 		30C908FE29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */; };
 		30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */; };
+		30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -89,6 +90,7 @@
 		30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_452_用最少数量的箭引爆气球.swift"; sourceTree = "<group>"; };
 		30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_122_买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
 		30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_605_种花问题.swift"; sourceTree = "<group>"; };
+		30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_135_分发糖果.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +171,7 @@
 				30C908FB29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift */,
 				30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */,
 				30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */,
+				30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				30C908F329BB8790000F46AF /* LC_78_子集.swift in Sources */,
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
+				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
 				30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */,
 				30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */,
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
