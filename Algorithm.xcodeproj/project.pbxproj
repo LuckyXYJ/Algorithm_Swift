@@ -41,6 +41,7 @@
 		30C908FE29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */; };
 		30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */; };
 		30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */; };
+		30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090429BB8BBF000F46AF /* MaxSubArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -91,6 +92,7 @@
 		30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_122_买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
 		30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_605_种花问题.swift"; sourceTree = "<group>"; };
 		30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_135_分发糖果.swift"; sourceTree = "<group>"; };
+		30C9090429BB8BBF000F46AF /* MaxSubArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxSubArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		30C908A529B9E191000F46AF = {
 			isa = PBXGroup;
 			children = (
+				30C9090329BB8BAC000F46AF /* DivideAndConquer分治 */,
 				30C908F629BB8887000F46AF /* Greedy贪心 */,
 				30C908B029B9E191000F46AF /* Algorithm */,
 				30C908AF29B9E191000F46AF /* Products */,
@@ -201,6 +204,14 @@
 			path = "Greedy贪心";
 			sourceTree = "<group>";
 		};
+		30C9090329BB8BAC000F46AF /* DivideAndConquer分治 */ = {
+			isa = PBXGroup;
+			children = (
+				30C9090429BB8BBF000F46AF /* MaxSubArray.swift */,
+			);
+			path = "DivideAndConquer分治";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -270,6 +281,7 @@
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
+				30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */,
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
