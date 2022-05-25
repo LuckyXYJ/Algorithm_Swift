@@ -42,6 +42,7 @@
 		30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */; };
 		30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */; };
 		30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090429BB8BBF000F46AF /* MaxSubArray.swift */; };
+		30C9090829BB8C2B000F46AF /* DynamicProgramming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090729BB8C2B000F46AF /* DynamicProgramming.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -93,6 +94,7 @@
 		30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_605_种花问题.swift"; sourceTree = "<group>"; };
 		30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_135_分发糖果.swift"; sourceTree = "<group>"; };
 		30C9090429BB8BBF000F46AF /* MaxSubArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxSubArray.swift; sourceTree = "<group>"; };
+		30C9090729BB8C2B000F46AF /* DynamicProgramming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicProgramming.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 		30C908A529B9E191000F46AF = {
 			isa = PBXGroup;
 			children = (
+				30C9090629BB8C16000F46AF /* DynamicProgramming动态规划 */,
 				30C9090329BB8BAC000F46AF /* DivideAndConquer分治 */,
 				30C908F629BB8887000F46AF /* Greedy贪心 */,
 				30C908B029B9E191000F46AF /* Algorithm */,
@@ -212,6 +215,14 @@
 			path = "DivideAndConquer分治";
 			sourceTree = "<group>";
 		};
+		30C9090629BB8C16000F46AF /* DynamicProgramming动态规划 */ = {
+			isa = PBXGroup;
+			children = (
+				30C9090729BB8C2B000F46AF /* DynamicProgramming.swift */,
+			);
+			path = "DynamicProgramming动态规划";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -289,6 +300,7 @@
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */,
 				30C908EB29BB8497000F46AF /* LC_46_全排列.swift in Sources */,
+				30C9090829BB8C2B000F46AF /* DynamicProgramming.swift in Sources */,
 				30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */,
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
 				30C908DD29BB3E7D000F46AF /* CountSort.swift in Sources */,
