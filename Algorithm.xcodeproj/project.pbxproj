@@ -44,6 +44,7 @@
 		30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090429BB8BBF000F46AF /* MaxSubArray.swift */; };
 		30C9090829BB8C2B000F46AF /* DynamicProgramming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090729BB8C2B000F46AF /* DynamicProgramming.swift */; };
 		30C9090A29BB8C7B000F46AF /* MaxSubArray2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090929BB8C7B000F46AF /* MaxSubArray2.swift */; };
+		30C9090C29BB8CBC000F46AF /* LC_300_最长上升子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090B29BB8CBC000F46AF /* LC_300_最长上升子序列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -97,6 +98,7 @@
 		30C9090429BB8BBF000F46AF /* MaxSubArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxSubArray.swift; sourceTree = "<group>"; };
 		30C9090729BB8C2B000F46AF /* DynamicProgramming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicProgramming.swift; sourceTree = "<group>"; };
 		30C9090929BB8C7B000F46AF /* MaxSubArray2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxSubArray2.swift; sourceTree = "<group>"; };
+		30C9090B29BB8CBC000F46AF /* LC_300_最长上升子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_300_最长上升子序列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +182,7 @@
 				30C908FD29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift */,
 				30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */,
 				30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */,
+				30C9090B29BB8CBC000F46AF /* LC_300_最长上升子序列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
 				30C908DD29BB3E7D000F46AF /* CountSort.swift in Sources */,
 				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
+				30C9090C29BB8CBC000F46AF /* LC_300_最长上升子序列.swift in Sources */,
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
