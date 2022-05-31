@@ -45,6 +45,7 @@
 		30C9090829BB8C2B000F46AF /* DynamicProgramming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090729BB8C2B000F46AF /* DynamicProgramming.swift */; };
 		30C9090A29BB8C7B000F46AF /* MaxSubArray2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090929BB8C7B000F46AF /* MaxSubArray2.swift */; };
 		30C9090C29BB8CBC000F46AF /* LC_300_最长上升子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090B29BB8CBC000F46AF /* LC_300_最长上升子序列.swift */; };
+		30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090D29BB8D08000F46AF /* LC_1143_最长公共子序列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -99,6 +100,7 @@
 		30C9090729BB8C2B000F46AF /* DynamicProgramming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicProgramming.swift; sourceTree = "<group>"; };
 		30C9090929BB8C7B000F46AF /* MaxSubArray2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxSubArray2.swift; sourceTree = "<group>"; };
 		30C9090B29BB8CBC000F46AF /* LC_300_最长上升子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_300_最长上升子序列.swift"; sourceTree = "<group>"; };
+		30C9090D29BB8D08000F46AF /* LC_1143_最长公共子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1143_最长公共子序列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +185,7 @@
 				30C908FF29BB8ACC000F46AF /* LC_605_种花问题.swift */,
 				30C9090129BB8B6F000F46AF /* LC_135_分发糖果.swift */,
 				30C9090B29BB8CBC000F46AF /* LC_300_最长上升子序列.swift */,
+				30C9090D29BB8D08000F46AF /* LC_1143_最长公共子序列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
+				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
 				30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
