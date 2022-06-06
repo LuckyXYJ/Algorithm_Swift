@@ -48,6 +48,7 @@
 		30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090D29BB8D08000F46AF /* LC_1143_最长公共子序列.swift */; };
 		30C9091029BB8DA6000F46AF /* LC_75_颜色分类.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9090F29BB8DA6000F46AF /* LC_75_颜色分类.swift */; };
 		30C9091229BB8E2D000F46AF /* LC_16.16_部分排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091129BB8E2D000F46AF /* LC_16.16_部分排序.swift */; };
+		30C9091429BB8E95000F46AF /* LC_164_最大间距.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091329BB8E95000F46AF /* LC_164_最大间距.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -105,6 +106,7 @@
 		30C9090D29BB8D08000F46AF /* LC_1143_最长公共子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1143_最长公共子序列.swift"; sourceTree = "<group>"; };
 		30C9090F29BB8DA6000F46AF /* LC_75_颜色分类.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_75_颜色分类.swift"; sourceTree = "<group>"; };
 		30C9091129BB8E2D000F46AF /* LC_16.16_部分排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_16.16_部分排序.swift"; sourceTree = "<group>"; };
+		30C9091329BB8E95000F46AF /* LC_164_最大间距.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_164_最大间距.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 				30C9090D29BB8D08000F46AF /* LC_1143_最长公共子序列.swift */,
 				30C9090F29BB8DA6000F46AF /* LC_75_颜色分类.swift */,
 				30C9091129BB8E2D000F46AF /* LC_16.16_部分排序.swift */,
+				30C9091329BB8E95000F46AF /* LC_164_最大间距.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */,
 				30C9091229BB8E2D000F46AF /* LC_16.16_部分排序.swift in Sources */,
 				30C9090A29BB8C7B000F46AF /* MaxSubArray2.swift in Sources */,
+				30C9091429BB8E95000F46AF /* LC_164_最大间距.swift in Sources */,
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C9091029BB8DA6000F46AF /* LC_75_颜色分类.swift in Sources */,

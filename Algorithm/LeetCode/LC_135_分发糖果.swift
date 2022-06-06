@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution135 {
     func candy(_ ratings: [Int]) -> Int {
         let n = ratings.count
         var ans = Array(repeating: 1, count: n)
