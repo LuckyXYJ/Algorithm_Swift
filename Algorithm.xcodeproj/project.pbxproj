@@ -51,6 +51,7 @@
 		30C9091429BB8E95000F46AF /* LC_164_最大间距.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091329BB8E95000F46AF /* LC_164_最大间距.swift */; };
 		30C9091629BB8F0B000F46AF /* LC_977_有序数组的平方.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091529BB8F0B000F46AF /* LC_977_有序数组的平方.swift */; };
 		30C9091829BBFEAF000F46AF /* LC_237_删除链表中的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */; };
+		30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -111,6 +112,7 @@
 		30C9091329BB8E95000F46AF /* LC_164_最大间距.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_164_最大间距.swift"; sourceTree = "<group>"; };
 		30C9091529BB8F0B000F46AF /* LC_977_有序数组的平方.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_977_有序数组的平方.swift"; sourceTree = "<group>"; };
 		30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_237_删除链表中的节点.swift"; sourceTree = "<group>"; };
+		30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_141_环形链表.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -201,6 +203,7 @@
 				30C9091329BB8E95000F46AF /* LC_164_最大间距.swift */,
 				30C9091529BB8F0B000F46AF /* LC_977_有序数组的平方.swift */,
 				30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */,
+				30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */,
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
+				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
 				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
 				30C908D529BB2277000F46AF /* LC_23_合并K个升序链表.swift in Sources */,
 				30C9091629BB8F0B000F46AF /* LC_977_有序数组的平方.swift in Sources */,
