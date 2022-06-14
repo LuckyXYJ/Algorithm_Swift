@@ -52,6 +52,7 @@
 		30C9091629BB8F0B000F46AF /* LC_977_有序数组的平方.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091529BB8F0B000F46AF /* LC_977_有序数组的平方.swift */; };
 		30C9091829BBFEAF000F46AF /* LC_237_删除链表中的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */; };
 		30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */; };
+		30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -113,6 +114,7 @@
 		30C9091529BB8F0B000F46AF /* LC_977_有序数组的平方.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_977_有序数组的平方.swift"; sourceTree = "<group>"; };
 		30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_237_删除链表中的节点.swift"; sourceTree = "<group>"; };
 		30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_141_环形链表.swift"; sourceTree = "<group>"; };
+		30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_206_反转链表.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				30C9091529BB8F0B000F46AF /* LC_977_有序数组的平方.swift */,
 				30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */,
 				30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */,
+				30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
 				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
 				30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */,
+				30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */,
 				30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */,
 				30C9091229BB8E2D000F46AF /* LC_16.16_部分排序.swift in Sources */,
 				30C9090A29BB8C7B000F46AF /* MaxSubArray2.swift in Sources */,
