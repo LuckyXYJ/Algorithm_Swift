@@ -53,6 +53,7 @@
 		30C9091829BBFEAF000F46AF /* LC_237_删除链表中的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */; };
 		30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */; };
 		30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */; };
+		30C9091E29BC0009000F46AF /* LC_155_最小栈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -115,6 +116,7 @@
 		30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_237_删除链表中的节点.swift"; sourceTree = "<group>"; };
 		30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_141_环形链表.swift"; sourceTree = "<group>"; };
 		30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_206_反转链表.swift"; sourceTree = "<group>"; };
+		30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_155_最小栈.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 				30C9091729BBFEAF000F46AF /* LC_237_删除链表中的节点.swift */,
 				30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */,
 				30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */,
+				30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				30C9090829BB8C2B000F46AF /* DynamicProgramming.swift in Sources */,
 				30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */,
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
+				30C9091E29BC0009000F46AF /* LC_155_最小栈.swift in Sources */,
 				30C908DD29BB3E7D000F46AF /* CountSort.swift in Sources */,
 				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
 				30C9090C29BB8CBC000F46AF /* LC_300_最长上升子序列.swift in Sources */,
