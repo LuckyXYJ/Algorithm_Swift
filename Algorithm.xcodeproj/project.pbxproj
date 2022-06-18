@@ -54,6 +54,7 @@
 		30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */; };
 		30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */; };
 		30C9091E29BC0009000F46AF /* LC_155_最小栈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */; };
+		30C9092029BC0081000F46AF /* LC_239_滑动窗口最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -117,6 +118,7 @@
 		30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_141_环形链表.swift"; sourceTree = "<group>"; };
 		30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_206_反转链表.swift"; sourceTree = "<group>"; };
 		30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_155_最小栈.swift"; sourceTree = "<group>"; };
+		30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_239_滑动窗口最大值.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 				30C9091929BBFEFE000F46AF /* LC_141_环形链表.swift */,
 				30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */,
 				30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */,
+				30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C9091029BB8DA6000F46AF /* LC_75_颜色分类.swift in Sources */,
+				30C9092029BC0081000F46AF /* LC_239_滑动窗口最大值.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */,
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
