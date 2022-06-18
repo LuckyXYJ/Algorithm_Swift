@@ -55,6 +55,8 @@
 		30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */; };
 		30C9091E29BC0009000F46AF /* LC_155_最小栈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */; };
 		30C9092029BC0081000F46AF /* LC_239_滑动窗口最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */; };
+		30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */; };
+		30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092329BC01BE000F46AF /* TreeNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -119,6 +121,8 @@
 		30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_206_反转链表.swift"; sourceTree = "<group>"; };
 		30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_155_最小栈.swift"; sourceTree = "<group>"; };
 		30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_239_滑动窗口最大值.swift"; sourceTree = "<group>"; };
+		30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_654_最大二叉树.swift"; sourceTree = "<group>"; };
+		30C9092329BC01BE000F46AF /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +164,7 @@
 				30C908B829BA0101000F46AF /* Sort */,
 				30C908B129B9E191000F46AF /* main.swift */,
 				30C908D029BB1F48000F46AF /* ListNode.swift */,
+				30C9092329BC01BE000F46AF /* TreeNode.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -213,6 +218,7 @@
 				30C9091B29BBFF5F000F46AF /* LC_206_反转链表.swift */,
 				30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */,
 				30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */,
+				30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -330,6 +336,7 @@
 				30C9091229BB8E2D000F46AF /* LC_16.16_部分排序.swift in Sources */,
 				30C9090A29BB8C7B000F46AF /* MaxSubArray2.swift in Sources */,
 				30C9091429BB8E95000F46AF /* LC_164_最大间距.swift in Sources */,
+				30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */,
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C9091029BB8DA6000F46AF /* LC_75_颜色分类.swift in Sources */,
@@ -358,6 +365,7 @@
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
 				30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */,
+				30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
 				30C908C829BB0FED000F46AF /* HeapSort.swift in Sources */,
 				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
