@@ -14,7 +14,7 @@ class Solution452 {
             return 0
         }
 
-        var points = points.sorted(by: {$0[0] < $1[0]})
+        let points = points.sorted(by: {$0[0] < $1[0]})
 
         var minEnd = points[0][1]
 
