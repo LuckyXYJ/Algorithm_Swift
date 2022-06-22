@@ -57,6 +57,7 @@
 		30C9092029BC0081000F46AF /* LC_239_滑动窗口最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */; };
 		30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */; };
 		30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092329BC01BE000F46AF /* TreeNode.swift */; };
+		30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092529BC029D000F46AF /* LC_739_每日温度.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -123,6 +124,7 @@
 		30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_239_滑动窗口最大值.swift"; sourceTree = "<group>"; };
 		30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_654_最大二叉树.swift"; sourceTree = "<group>"; };
 		30C9092329BC01BE000F46AF /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		30C9092529BC029D000F46AF /* LC_739_每日温度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_739_每日温度.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 				30C9091D29BC0009000F46AF /* LC_155_最小栈.swift */,
 				30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */,
 				30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */,
+				30C9092529BC029D000F46AF /* LC_739_每日温度.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				30C9091829BBFEAF000F46AF /* LC_237_删除链表中的节点.swift in Sources */,
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
+				30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */,
 				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
 				30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */,
 				30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */,
