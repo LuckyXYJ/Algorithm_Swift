@@ -58,6 +58,7 @@
 		30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */; };
 		30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092329BC01BE000F46AF /* TreeNode.swift */; };
 		30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092529BC029D000F46AF /* LC_739_每日温度.swift */; };
+		30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092729BC0305000F46AF /* LC_42_接雨水.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,6 +126,7 @@
 		30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_654_最大二叉树.swift"; sourceTree = "<group>"; };
 		30C9092329BC01BE000F46AF /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		30C9092529BC029D000F46AF /* LC_739_每日温度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_739_每日温度.swift"; sourceTree = "<group>"; };
+		30C9092729BC0305000F46AF /* LC_42_接雨水.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_42_接雨水.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +224,7 @@
 				30C9091F29BC0081000F46AF /* LC_239_滑动窗口最大值.swift */,
 				30C9092129BC00F9000F46AF /* LC_654_最大二叉树.swift */,
 				30C9092529BC029D000F46AF /* LC_739_每日温度.swift */,
+				30C9092729BC0305000F46AF /* LC_42_接雨水.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -348,6 +351,7 @@
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */,
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
+				30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
 				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
