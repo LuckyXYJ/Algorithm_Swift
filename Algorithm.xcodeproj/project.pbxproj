@@ -60,6 +60,7 @@
 		30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092529BC029D000F46AF /* LC_739_每日温度.swift */; };
 		30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092729BC0305000F46AF /* LC_42_接雨水.swift */; };
 		30C9092A29BC0364000F46AF /* LC_20_有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092929BC0364000F46AF /* LC_20_有效的括号.swift */; };
+		30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -129,6 +130,7 @@
 		30C9092529BC029D000F46AF /* LC_739_每日温度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_739_每日温度.swift"; sourceTree = "<group>"; };
 		30C9092729BC0305000F46AF /* LC_42_接雨水.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_42_接雨水.swift"; sourceTree = "<group>"; };
 		30C9092929BC0364000F46AF /* LC_20_有效的括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_20_有效的括号.swift"; sourceTree = "<group>"; };
+		30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_232_用栈实现队列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,6 +230,7 @@
 				30C9092529BC029D000F46AF /* LC_739_每日温度.swift */,
 				30C9092729BC0305000F46AF /* LC_42_接雨水.swift */,
 				30C9092929BC0364000F46AF /* LC_20_有效的括号.swift */,
+				30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -372,6 +375,7 @@
 				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
 				30C9090C29BB8CBC000F46AF /* LC_300_最长上升子序列.swift in Sources */,
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
+				30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
