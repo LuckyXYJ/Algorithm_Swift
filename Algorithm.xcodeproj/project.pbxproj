@@ -61,6 +61,7 @@
 		30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092729BC0305000F46AF /* LC_42_接雨水.swift */; };
 		30C9092A29BC0364000F46AF /* LC_20_有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092929BC0364000F46AF /* LC_20_有效的括号.swift */; };
 		30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */; };
+		30C9092E29BC05C3000F46AF /* LC_01.09_字符串轮转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -131,6 +132,7 @@
 		30C9092729BC0305000F46AF /* LC_42_接雨水.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_42_接雨水.swift"; sourceTree = "<group>"; };
 		30C9092929BC0364000F46AF /* LC_20_有效的括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_20_有效的括号.swift"; sourceTree = "<group>"; };
 		30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_232_用栈实现队列.swift"; sourceTree = "<group>"; };
+		30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_01.09_字符串轮转.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,6 +233,7 @@
 				30C9092729BC0305000F46AF /* LC_42_接雨水.swift */,
 				30C9092929BC0364000F46AF /* LC_20_有效的括号.swift */,
 				30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */,
+				30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -383,6 +386,7 @@
 				30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */,
 				30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
+				30C9092E29BC05C3000F46AF /* LC_01.09_字符串轮转.swift in Sources */,
 				30C908C829BB0FED000F46AF /* HeapSort.swift in Sources */,
 				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
 				30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */,
