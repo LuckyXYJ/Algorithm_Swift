@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution0109 {
     func isFlipedString(_ s1: String, _ s2: String) -> Bool {
         guard s1.count == s2.count else{
             return false
