@@ -63,6 +63,7 @@
 		30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */; };
 		30C9092E29BC05C3000F46AF /* LC_01.09_字符串轮转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */; };
 		30C9093029BC062A000F46AF /* LC_572_另一棵树的子树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */; };
+		30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -135,6 +136,7 @@
 		30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_232_用栈实现队列.swift"; sourceTree = "<group>"; };
 		30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_01.09_字符串轮转.swift"; sourceTree = "<group>"; };
 		30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_572_另一棵树的子树.swift"; sourceTree = "<group>"; };
+		30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_242_有效的字母异位词.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -237,6 +239,7 @@
 				30C9092B29BC03EA000F46AF /* LC_232_用栈实现队列.swift */,
 				30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */,
 				30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */,
+				30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -387,6 +390,7 @@
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
+				30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */,
 				30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */,
 				30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
