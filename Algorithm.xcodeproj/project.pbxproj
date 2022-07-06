@@ -64,6 +64,7 @@
 		30C9092E29BC05C3000F46AF /* LC_01.09_字符串轮转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */; };
 		30C9093029BC062A000F46AF /* LC_572_另一棵树的子树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */; };
 		30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */; };
+		30C9093429BC07BB000F46AF /* LC_151_反转字符串中的单词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093329BC07BB000F46AF /* LC_151_反转字符串中的单词.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -137,6 +138,7 @@
 		30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_01.09_字符串轮转.swift"; sourceTree = "<group>"; };
 		30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_572_另一棵树的子树.swift"; sourceTree = "<group>"; };
 		30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_242_有效的字母异位词.swift"; sourceTree = "<group>"; };
+		30C9093329BC07BB000F46AF /* LC_151_反转字符串中的单词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_151_反转字符串中的单词.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -240,6 +242,7 @@
 				30C9092D29BC05C3000F46AF /* LC_01.09_字符串轮转.swift */,
 				30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */,
 				30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */,
+				30C9093329BC07BB000F46AF /* LC_151_反转字符串中的单词.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 				30C9092A29BC0364000F46AF /* LC_20_有效的括号.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
 				30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */,
+				30C9093429BC07BB000F46AF /* LC_151_反转字符串中的单词.swift in Sources */,
 				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
 				30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */,
 				30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */,
