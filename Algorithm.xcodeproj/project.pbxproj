@@ -65,6 +65,7 @@
 		30C9093029BC062A000F46AF /* LC_572_另一棵树的子树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */; };
 		30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */; };
 		30C9093429BC07BB000F46AF /* LC_151_反转字符串中的单词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093329BC07BB000F46AF /* LC_151_反转字符串中的单词.swift */; };
+		30C9093629BC0811000F46AF /* LC_3_无重复字符的最长子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093529BC0811000F46AF /* LC_3_无重复字符的最长子串.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -139,6 +140,7 @@
 		30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_572_另一棵树的子树.swift"; sourceTree = "<group>"; };
 		30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_242_有效的字母异位词.swift"; sourceTree = "<group>"; };
 		30C9093329BC07BB000F46AF /* LC_151_反转字符串中的单词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_151_反转字符串中的单词.swift"; sourceTree = "<group>"; };
+		30C9093529BC0811000F46AF /* LC_3_无重复字符的最长子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_3_无重复字符的最长子串.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +245,7 @@
 				30C9092F29BC062A000F46AF /* LC_572_另一棵树的子树.swift */,
 				30C9093129BC073F000F46AF /* LC_242_有效的字母异位词.swift */,
 				30C9093329BC07BB000F46AF /* LC_151_反转字符串中的单词.swift */,
+				30C9093529BC0811000F46AF /* LC_3_无重复字符的最长子串.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				30C9093029BC062A000F46AF /* LC_572_另一棵树的子树.swift in Sources */,
 				30C908D529BB2277000F46AF /* LC_23_合并K个升序链表.swift in Sources */,
 				30C9091629BB8F0B000F46AF /* LC_977_有序数组的平方.swift in Sources */,
+				30C9093629BC0811000F46AF /* LC_3_无重复字符的最长子串.swift in Sources */,
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */,
 				30C908EB29BB8497000F46AF /* LC_46_全排列.swift in Sources */,
