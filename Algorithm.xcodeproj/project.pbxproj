@@ -69,6 +69,7 @@
 		30C9093829BC086D000F46AF /* LC_5_最长回文子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093729BC086D000F46AF /* LC_5_最长回文子串.swift */; };
 		30C9093A29BC08B7000F46AF /* LC_72_编辑距离.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093929BC08B7000F46AF /* LC_72_编辑距离.swift */; };
 		30C9093C29BC0987000F46AF /* LC_32_最长有效括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */; };
+		30C9093E29BC09C6000F46AF /* LC_1048_最长字符串链.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -147,6 +148,7 @@
 		30C9093729BC086D000F46AF /* LC_5_最长回文子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_5_最长回文子串.swift"; sourceTree = "<group>"; };
 		30C9093929BC08B7000F46AF /* LC_72_编辑距离.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_72_编辑距离.swift"; sourceTree = "<group>"; };
 		30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_32_最长有效括号.swift"; sourceTree = "<group>"; };
+		30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1048_最长字符串链.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -255,6 +257,7 @@
 				30C9093729BC086D000F46AF /* LC_5_最长回文子串.swift */,
 				30C9093929BC08B7000F46AF /* LC_72_编辑距离.swift */,
 				30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */,
+				30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -367,6 +370,7 @@
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
 				30C9092A29BC0364000F46AF /* LC_20_有效的括号.swift in Sources */,
 				30C908C029BA0836000F46AF /* SortTest.swift in Sources */,
+				30C9093E29BC09C6000F46AF /* LC_1048_最长字符串链.swift in Sources */,
 				30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */,
 				30C9093429BC07BB000F46AF /* LC_151_反转字符串中的单词.swift in Sources */,
 				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
