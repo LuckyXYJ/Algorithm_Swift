@@ -70,6 +70,7 @@
 		30C9093A29BC08B7000F46AF /* LC_72_编辑距离.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093929BC08B7000F46AF /* LC_72_编辑距离.swift */; };
 		30C9093C29BC0987000F46AF /* LC_32_最长有效括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */; };
 		30C9093E29BC09C6000F46AF /* LC_1048_最长字符串链.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */; };
+		30C9094029BC0A32000F46AF /* OF_47_礼物的最大价值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -149,6 +150,7 @@
 		30C9093929BC08B7000F46AF /* LC_72_编辑距离.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_72_编辑距离.swift"; sourceTree = "<group>"; };
 		30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_32_最长有效括号.swift"; sourceTree = "<group>"; };
 		30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1048_最长字符串链.swift"; sourceTree = "<group>"; };
+		30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_47_礼物的最大价值.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -258,6 +260,7 @@
 				30C9093929BC08B7000F46AF /* LC_72_编辑距离.swift */,
 				30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */,
 				30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */,
+				30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -409,6 +412,7 @@
 				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
 				30C9090C29BB8CBC000F46AF /* LC_300_最长上升子序列.swift in Sources */,
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
+				30C9094029BC0A32000F46AF /* OF_47_礼物的最大价值.swift in Sources */,
 				30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
