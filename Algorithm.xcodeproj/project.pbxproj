@@ -71,6 +71,7 @@
 		30C9093C29BC0987000F46AF /* LC_32_最长有效括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */; };
 		30C9093E29BC09C6000F46AF /* LC_1048_最长字符串链.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */; };
 		30C9094029BC0A32000F46AF /* OF_47_礼物的最大价值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */; };
+		30C9094229BC0DD6000F46AF /* LC_64_最小路径和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -151,6 +152,7 @@
 		30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_32_最长有效括号.swift"; sourceTree = "<group>"; };
 		30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1048_最长字符串链.swift"; sourceTree = "<group>"; };
 		30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_47_礼物的最大价值.swift"; sourceTree = "<group>"; };
+		30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_64_最小路径和.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -261,6 +263,7 @@
 				30C9093B29BC0987000F46AF /* LC_32_最长有效括号.swift */,
 				30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */,
 				30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */,
+				30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -404,6 +407,7 @@
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */,
 				30C908EB29BB8497000F46AF /* LC_46_全排列.swift in Sources */,
+				30C9094229BC0DD6000F46AF /* LC_64_最小路径和.swift in Sources */,
 				30C9090829BB8C2B000F46AF /* DynamicProgramming.swift in Sources */,
 				30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */,
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
