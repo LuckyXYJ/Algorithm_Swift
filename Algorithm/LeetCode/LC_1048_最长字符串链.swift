@@ -7,9 +7,9 @@
 
 import Foundation
 
-class Solution {
+class Solution1048 {
     func longestStrChain(_ words: [String]) -> Int {
-        var words = words.sorted(by: { $0.length <= $1.length })
+        var words = words.sorted(by: { $0.count <= $1.count })
         var dp = Array(repeating: 1, count: words.count)
         var res = 0
 

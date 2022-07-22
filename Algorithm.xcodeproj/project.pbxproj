@@ -72,6 +72,7 @@
 		30C9093E29BC09C6000F46AF /* LC_1048_最长字符串链.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */; };
 		30C9094029BC0A32000F46AF /* OF_47_礼物的最大价值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */; };
 		30C9094229BC0DD6000F46AF /* LC_64_最小路径和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */; };
+		30C9094429BC0E20000F46AF /* LC_62_不同路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094329BC0E20000F46AF /* LC_62_不同路径.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -153,6 +154,7 @@
 		30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1048_最长字符串链.swift"; sourceTree = "<group>"; };
 		30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_47_礼物的最大价值.swift"; sourceTree = "<group>"; };
 		30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_64_最小路径和.swift"; sourceTree = "<group>"; };
+		30C9094329BC0E20000F46AF /* LC_62_不同路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_62_不同路径.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +266,7 @@
 				30C9093D29BC09C6000F46AF /* LC_1048_最长字符串链.swift */,
 				30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */,
 				30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */,
+				30C9094329BC0E20000F46AF /* LC_62_不同路径.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -418,6 +421,7 @@
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
 				30C9094029BC0A32000F46AF /* OF_47_礼物的最大价值.swift in Sources */,
 				30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */,
+				30C9094429BC0E20000F46AF /* LC_62_不同路径.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
