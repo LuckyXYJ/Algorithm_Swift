@@ -73,6 +73,7 @@
 		30C9094029BC0A32000F46AF /* OF_47_礼物的最大价值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */; };
 		30C9094229BC0DD6000F46AF /* LC_64_最小路径和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */; };
 		30C9094429BC0E20000F46AF /* LC_62_不同路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094329BC0E20000F46AF /* LC_62_不同路径.swift */; };
+		30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094529BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -155,6 +156,7 @@
 		30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_47_礼物的最大价值.swift"; sourceTree = "<group>"; };
 		30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_64_最小路径和.swift"; sourceTree = "<group>"; };
 		30C9094329BC0E20000F46AF /* LC_62_不同路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_62_不同路径.swift"; sourceTree = "<group>"; };
+		30C9094529BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_121_买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -267,6 +269,7 @@
 				30C9093F29BC0A32000F46AF /* OF_47_礼物的最大价值.swift */,
 				30C9094129BC0DD6000F46AF /* LC_64_最小路径和.swift */,
 				30C9094329BC0E20000F46AF /* LC_62_不同路径.swift */,
+				30C9094529BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -390,6 +393,7 @@
 				30C9091229BB8E2D000F46AF /* LC_16.16_部分排序.swift in Sources */,
 				30C9090A29BB8C7B000F46AF /* MaxSubArray2.swift in Sources */,
 				30C9091429BB8E95000F46AF /* LC_164_最大间距.swift in Sources */,
+				30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */,
 				30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */,
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
