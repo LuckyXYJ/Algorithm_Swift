@@ -76,6 +76,7 @@
 		30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094529BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift */; };
 		30C9094829BC0EEE000F46AF /* OF_63_股票的最大利润.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094729BC0EEE000F46AF /* OF_63_股票的最大利润.swift */; };
 		30C9094A29BC0F84000F46AF /* LC_70_爬楼梯.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094929BC0F84000F46AF /* LC_70_爬楼梯.swift */; };
+		30C9094C29BC0FC4000F46AF /* LC_198_打家劫舍.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -161,6 +162,7 @@
 		30C9094529BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_121_买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
 		30C9094729BC0EEE000F46AF /* OF_63_股票的最大利润.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_63_股票的最大利润.swift"; sourceTree = "<group>"; };
 		30C9094929BC0F84000F46AF /* LC_70_爬楼梯.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_70_爬楼梯.swift"; sourceTree = "<group>"; };
+		30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_198_打家劫舍.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -276,6 +278,7 @@
 				30C9094529BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift */,
 				30C9094729BC0EEE000F46AF /* OF_63_股票的最大利润.swift */,
 				30C9094929BC0F84000F46AF /* LC_70_爬楼梯.swift */,
+				30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 				30C908D329BB1FCE000F46AF /* LC_21_合并两个有序链表.swift in Sources */,
 				30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */,
 				30C908F329BB8790000F46AF /* LC_78_子集.swift in Sources */,
+				30C9094C29BC0FC4000F46AF /* LC_198_打家劫舍.swift in Sources */,
 				30C9091829BBFEAF000F46AF /* LC_237_删除链表中的节点.swift in Sources */,
 				30C9093C29BC0987000F46AF /* LC_32_最长有效括号.swift in Sources */,
 				30C908B229B9E191000F46AF /* main.swift in Sources */,
