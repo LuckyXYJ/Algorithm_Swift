@@ -78,6 +78,7 @@
 		30C9094A29BC0F84000F46AF /* LC_70_爬楼梯.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094929BC0F84000F46AF /* LC_70_爬楼梯.swift */; };
 		30C9094C29BC0FC4000F46AF /* LC_198_打家劫舍.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */; };
 		30C9094E29BC1017000F46AF /* LC_213_打家劫舍 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094D29BC1017000F46AF /* LC_213_打家劫舍 II.swift */; };
+		30C9095029BC107F000F46AF /* LC_674_最长连续递增序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094F29BC107F000F46AF /* LC_674_最长连续递增序列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -165,6 +166,7 @@
 		30C9094929BC0F84000F46AF /* LC_70_爬楼梯.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_70_爬楼梯.swift"; sourceTree = "<group>"; };
 		30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_198_打家劫舍.swift"; sourceTree = "<group>"; };
 		30C9094D29BC1017000F46AF /* LC_213_打家劫舍 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_213_打家劫舍 II.swift"; sourceTree = "<group>"; };
+		30C9094F29BC107F000F46AF /* LC_674_最长连续递增序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_674_最长连续递增序列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -282,6 +284,7 @@
 				30C9094929BC0F84000F46AF /* LC_70_爬楼梯.swift */,
 				30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */,
 				30C9094D29BC1017000F46AF /* LC_213_打家劫舍 II.swift */,
+				30C9094F29BC107F000F46AF /* LC_674_最长连续递增序列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -416,6 +419,7 @@
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */,
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
+				30C9095029BC107F000F46AF /* LC_674_最长连续递增序列.swift in Sources */,
 				30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
