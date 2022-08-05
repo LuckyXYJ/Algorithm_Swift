@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution63 {
+class SolutionLC63 {
     func maxProfit(_ prices: [Int]) -> Int {
         guard !prices.isEmpty else{return 0}
         var min=prices[0]

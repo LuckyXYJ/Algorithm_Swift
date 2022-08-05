@@ -79,6 +79,7 @@
 		30C9094C29BC0FC4000F46AF /* LC_198_打家劫舍.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */; };
 		30C9094E29BC1017000F46AF /* LC_213_打家劫舍 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094D29BC1017000F46AF /* LC_213_打家劫舍 II.swift */; };
 		30C9095029BC107F000F46AF /* LC_674_最长连续递增序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9094F29BC107F000F46AF /* LC_674_最长连续递增序列.swift */; };
+		30C9095229BC10CE000F46AF /* LC_63_不同路径 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095129BC10CE000F46AF /* LC_63_不同路径 II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -167,6 +168,7 @@
 		30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_198_打家劫舍.swift"; sourceTree = "<group>"; };
 		30C9094D29BC1017000F46AF /* LC_213_打家劫舍 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_213_打家劫舍 II.swift"; sourceTree = "<group>"; };
 		30C9094F29BC107F000F46AF /* LC_674_最长连续递增序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_674_最长连续递增序列.swift"; sourceTree = "<group>"; };
+		30C9095129BC10CE000F46AF /* LC_63_不同路径 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_63_不同路径 II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -285,6 +287,7 @@
 				30C9094B29BC0FC4000F46AF /* LC_198_打家劫舍.swift */,
 				30C9094D29BC1017000F46AF /* LC_213_打家劫舍 II.swift */,
 				30C9094F29BC107F000F46AF /* LC_674_最长连续递增序列.swift */,
+				30C9095129BC10CE000F46AF /* LC_63_不同路径 II.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -415,6 +418,7 @@
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
 				30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */,
 				30C9091029BB8DA6000F46AF /* LC_75_颜色分类.swift in Sources */,
+				30C9095229BC10CE000F46AF /* LC_63_不同路径 II.swift in Sources */,
 				30C9092029BC0081000F46AF /* LC_239_滑动窗口最大值.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */,
