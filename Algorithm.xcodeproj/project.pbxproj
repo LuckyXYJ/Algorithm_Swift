@@ -83,6 +83,7 @@
 		30C9095429BC112F000F46AF /* LC_123_买卖股票的最佳时机 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095329BC112F000F46AF /* LC_123_买卖股票的最佳时机 III.swift */; };
 		30C9095629BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095529BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift */; };
 		30C9095829BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */; };
+		30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -175,6 +176,7 @@
 		30C9095329BC112F000F46AF /* LC_123_买卖股票的最佳时机 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_123_买卖股票的最佳时机 III.swift"; sourceTree = "<group>"; };
 		30C9095529BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_188_买卖股票的最佳时机 IV.swift"; sourceTree = "<group>"; };
 		30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_714_买卖股票的最佳时机含手续费.swift"; sourceTree = "<group>"; };
+		30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_673_最长递增子序列的个数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -297,6 +299,7 @@
 				30C9095329BC112F000F46AF /* LC_123_买卖股票的最佳时机 III.swift */,
 				30C9095529BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift */,
 				30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */,
+				30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -462,6 +465,7 @@
 				30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */,
 				30C9094429BC0E20000F46AF /* LC_62_不同路径.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
+				30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
