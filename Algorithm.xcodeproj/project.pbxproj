@@ -84,6 +84,7 @@
 		30C9095629BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095529BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift */; };
 		30C9095829BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */; };
 		30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */; };
+		30C9095C29BC1282000F46AF /* LC_1235_规划兼职工作.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -177,6 +178,7 @@
 		30C9095529BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_188_买卖股票的最佳时机 IV.swift"; sourceTree = "<group>"; };
 		30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_714_买卖股票的最佳时机含手续费.swift"; sourceTree = "<group>"; };
 		30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_673_最长递增子序列的个数.swift"; sourceTree = "<group>"; };
+		30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1235_规划兼职工作.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -300,6 +302,7 @@
 				30C9095529BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift */,
 				30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */,
 				30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */,
+				30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -442,6 +445,7 @@
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
 				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
 				30C9093829BC086D000F46AF /* LC_5_最长回文子串.swift in Sources */,
+				30C9095C29BC1282000F46AF /* LC_1235_规划兼职工作.swift in Sources */,
 				30C9095629BC118F000F46AF /* LC_188_买卖股票的最佳时机 IV.swift in Sources */,
 				30C9093029BC062A000F46AF /* LC_572_另一棵树的子树.swift in Sources */,
 				30C9095829BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift in Sources */,
