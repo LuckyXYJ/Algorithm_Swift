@@ -85,6 +85,7 @@
 		30C9095829BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */; };
 		30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */; };
 		30C9095C29BC1282000F46AF /* LC_1235_规划兼职工作.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */; };
+		30C9095E29BC12C8000F46AF /* LC_943_最短超级串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095D29BC12C8000F46AF /* LC_943_最短超级串.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -179,6 +180,7 @@
 		30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_714_买卖股票的最佳时机含手续费.swift"; sourceTree = "<group>"; };
 		30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_673_最长递增子序列的个数.swift"; sourceTree = "<group>"; };
 		30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1235_规划兼职工作.swift"; sourceTree = "<group>"; };
+		30C9095D29BC12C8000F46AF /* LC_943_最短超级串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_943_最短超级串.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -303,6 +305,7 @@
 				30C9095729BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift */,
 				30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */,
 				30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */,
+				30C9095D29BC12C8000F46AF /* LC_943_最短超级串.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -484,6 +487,7 @@
 				30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */,
 				30C908ED29BB8572000F46AF /* LC_47_全排列2.swift in Sources */,
 				30C908FE29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift in Sources */,
+				30C9095E29BC12C8000F46AF /* LC_943_最短超级串.swift in Sources */,
 				30C908D129BB1F48000F46AF /* ListNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
