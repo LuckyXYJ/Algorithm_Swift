@@ -86,6 +86,7 @@
 		30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */; };
 		30C9095C29BC1282000F46AF /* LC_1235_规划兼职工作.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */; };
 		30C9095E29BC12C8000F46AF /* LC_943_最短超级串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095D29BC12C8000F46AF /* LC_943_最短超级串.swift */; };
+		30C9096029BC1303000F46AF /* LC_516_最长回文子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9095F29BC1303000F46AF /* LC_516_最长回文子序列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -181,6 +182,7 @@
 		30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_673_最长递增子序列的个数.swift"; sourceTree = "<group>"; };
 		30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1235_规划兼职工作.swift"; sourceTree = "<group>"; };
 		30C9095D29BC12C8000F46AF /* LC_943_最短超级串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_943_最短超级串.swift"; sourceTree = "<group>"; };
+		30C9095F29BC1303000F46AF /* LC_516_最长回文子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_516_最长回文子序列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -306,6 +308,7 @@
 				30C9095929BC1222000F46AF /* LC_673_最长递增子序列的个数.swift */,
 				30C9095B29BC1282000F46AF /* LC_1235_规划兼职工作.swift */,
 				30C9095D29BC12C8000F46AF /* LC_943_最短超级串.swift */,
+				30C9095F29BC1303000F46AF /* LC_516_最长回文子序列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -412,6 +415,7 @@
 			files = (
 				30C9094A29BC0F84000F46AF /* LC_70_爬楼梯.swift in Sources */,
 				30C908D329BB1FCE000F46AF /* LC_21_合并两个有序链表.swift in Sources */,
+				30C9096029BC1303000F46AF /* LC_516_最长回文子序列.swift in Sources */,
 				30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */,
 				30C908F329BB8790000F46AF /* LC_78_子集.swift in Sources */,
 				30C9094C29BC0FC4000F46AF /* LC_198_打家劫舍.swift in Sources */,
