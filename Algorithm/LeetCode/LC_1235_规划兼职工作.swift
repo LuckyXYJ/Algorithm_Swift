@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution1235 {
     func jobScheduling(_ startTime: [Int], _ endTime: [Int], _ profit: [Int]) -> Int {
         var nRet = 0
         let nCount = startTime.count

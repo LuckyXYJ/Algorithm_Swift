@@ -91,6 +91,7 @@
 		30C9096429BC13E5000F46AF /* LC_236_二叉树的最近公共祖先.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096329BC13E5000F46AF /* LC_236_二叉树的最近公共祖先.swift */; };
 		30C9096629BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096529BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift */; };
 		30C9096829BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096729BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift */; };
+		30C9096A29BCB369000F46AF /* LC_98_验证二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096929BCB369000F46AF /* LC_98_验证二叉搜索树.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -191,6 +192,7 @@
 		30C9096329BC13E5000F46AF /* LC_236_二叉树的最近公共祖先.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_236_二叉树的最近公共祖先.swift"; sourceTree = "<group>"; };
 		30C9096529BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_99_ 恢复二叉搜索树.swift"; sourceTree = "<group>"; };
 		30C9096729BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_94_二叉树的中序遍历.swift"; sourceTree = "<group>"; };
+		30C9096929BCB369000F46AF /* LC_98_验证二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_98_验证二叉搜索树.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -321,6 +323,7 @@
 				30C9096329BC13E5000F46AF /* LC_236_二叉树的最近公共祖先.swift */,
 				30C9096529BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift */,
 				30C9096729BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift */,
+				30C9096929BCB369000F46AF /* LC_98_验证二叉搜索树.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -492,6 +495,7 @@
 				30C9094429BC0E20000F46AF /* LC_62_不同路径.swift in Sources */,
 				30C9096229BC137A000F46AF /* LC_376_摆动序列.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
+				30C9096A29BCB369000F46AF /* LC_98_验证二叉搜索树.swift in Sources */,
 				30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
