@@ -92,6 +92,7 @@
 		30C9096629BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096529BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift */; };
 		30C9096829BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096729BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift */; };
 		30C9096A29BCB369000F46AF /* LC_98_验证二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096929BCB369000F46AF /* LC_98_验证二叉搜索树.swift */; };
+		30C9096C29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096B29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -193,6 +194,7 @@
 		30C9096529BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_99_ 恢复二叉搜索树.swift"; sourceTree = "<group>"; };
 		30C9096729BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_94_二叉树的中序遍历.swift"; sourceTree = "<group>"; };
 		30C9096929BCB369000F46AF /* LC_98_验证二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_98_验证二叉搜索树.swift"; sourceTree = "<group>"; };
+		30C9096B29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_230_二叉搜索树中第K小的元素.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -324,6 +326,7 @@
 				30C9096529BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift */,
 				30C9096729BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift */,
 				30C9096929BCB369000F46AF /* LC_98_验证二叉搜索树.swift */,
+				30C9096B29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -460,6 +463,7 @@
 				30C9091029BB8DA6000F46AF /* LC_75_颜色分类.swift in Sources */,
 				30C9095229BC10CE000F46AF /* LC_63_不同路径 II.swift in Sources */,
 				30C9092029BC0081000F46AF /* LC_239_滑动窗口最大值.swift in Sources */,
+				30C9096C29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift in Sources */,
 				30C908E129BB7ABA000F46AF /* BucketSort.swift in Sources */,
 				30C9090529BB8BBF000F46AF /* MaxSubArray.swift in Sources */,
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
