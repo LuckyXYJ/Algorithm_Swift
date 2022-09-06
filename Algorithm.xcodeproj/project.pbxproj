@@ -95,6 +95,7 @@
 		30C9096C29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096B29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift */; };
 		30C9096E29BCB657000F46AF /* LC_101_对称二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096D29BCB657000F46AF /* LC_101_对称二叉树.swift */; };
 		30C9097029BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096F29BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift */; };
+		30C9097229BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097129BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -199,6 +200,7 @@
 		30C9096B29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_230_二叉搜索树中第K小的元素.swift"; sourceTree = "<group>"; };
 		30C9096D29BCB657000F46AF /* LC_101_对称二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_101_对称二叉树.swift"; sourceTree = "<group>"; };
 		30C9096F29BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_108_将有序数组转换为二叉搜索树.swift"; sourceTree = "<group>"; };
+		30C9097129BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_102_二叉树的层序遍历.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -333,6 +335,7 @@
 				30C9096B29BCB5FC000F46AF /* LC_230_二叉搜索树中第K小的元素.swift */,
 				30C9096D29BCB657000F46AF /* LC_101_对称二叉树.swift */,
 				30C9096F29BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift */,
+				30C9097129BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -487,6 +490,7 @@
 				30C9096429BC13E5000F46AF /* LC_236_二叉树的最近公共祖先.swift in Sources */,
 				30C9095829BC11CD000F46AF /* LC_714_买卖股票的最佳时机含手续费.swift in Sources */,
 				30C908D529BB2277000F46AF /* LC_23_合并K个升序链表.swift in Sources */,
+				30C9097229BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift in Sources */,
 				30C9091629BB8F0B000F46AF /* LC_977_有序数组的平方.swift in Sources */,
 				30C9093629BC0811000F46AF /* LC_3_无重复字符的最长子串.swift in Sources */,
 				30C9094E29BC1017000F46AF /* LC_213_打家劫舍 II.swift in Sources */,
