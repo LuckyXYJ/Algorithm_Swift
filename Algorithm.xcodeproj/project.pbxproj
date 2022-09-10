@@ -97,6 +97,7 @@
 		30C9097029BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9096F29BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift */; };
 		30C9097229BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097129BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift */; };
 		30C9097429BCB783000F46AF /* LC_104_二叉树的最大深度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097329BCB783000F46AF /* LC_104_二叉树的最大深度.swift */; };
+		30C9097629BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097529BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -203,6 +204,7 @@
 		30C9096F29BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_108_将有序数组转换为二叉搜索树.swift"; sourceTree = "<group>"; };
 		30C9097129BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_102_二叉树的层序遍历.swift"; sourceTree = "<group>"; };
 		30C9097329BCB783000F46AF /* LC_104_二叉树的最大深度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_104_二叉树的最大深度.swift"; sourceTree = "<group>"; };
+		30C9097529BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_105_从前序与中序遍历序列构造二叉树.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -339,6 +341,7 @@
 				30C9096F29BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift */,
 				30C9097129BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift */,
 				30C9097329BCB783000F46AF /* LC_104_二叉树的最大深度.swift */,
+				30C9097529BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -459,6 +462,7 @@
 				30C9093429BC07BB000F46AF /* LC_151_反转字符串中的单词.swift in Sources */,
 				30C9096E29BCB657000F46AF /* LC_101_对称二叉树.swift in Sources */,
 				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
+				30C9097629BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift in Sources */,
 				30C908F529BB87F2000F46AF /* LC_90_子集2.swift in Sources */,
 				30C9097029BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift in Sources */,
 				30C9095429BC112F000F46AF /* LC_123_买卖股票的最佳时机 III.swift in Sources */,
