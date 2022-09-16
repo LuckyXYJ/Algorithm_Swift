@@ -100,6 +100,7 @@
 		30C9097629BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097529BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift */; };
 		30C9097829BCB82F000F46AF /* LC_106_从中序与后序遍历序列构造二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097729BCB82F000F46AF /* LC_106_从中序与后序遍历序列构造二叉树.swift */; };
 		30C9097A29BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097929BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift */; };
+		30C9097C29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -209,6 +210,7 @@
 		30C9097529BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_105_从前序与中序遍历序列构造二叉树.swift"; sourceTree = "<group>"; };
 		30C9097729BCB82F000F46AF /* LC_106_从中序与后序遍历序列构造二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_106_从中序与后序遍历序列构造二叉树.swift"; sourceTree = "<group>"; };
 		30C9097929BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_297_二叉树的序列化与反序列化.swift"; sourceTree = "<group>"; };
+		30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_449_序列化和反序列化二叉搜索树.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -348,6 +350,7 @@
 				30C9097529BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift */,
 				30C9097729BCB82F000F46AF /* LC_106_从中序与后序遍历序列构造二叉树.swift */,
 				30C9097929BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift */,
+				30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -498,6 +501,7 @@
 				30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
+				30C9097C29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift in Sources */,
 				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
 				30C9093829BC086D000F46AF /* LC_5_最长回文子串.swift in Sources */,
 				30C9095C29BC1282000F46AF /* LC_1235_规划兼职工作.swift in Sources */,
