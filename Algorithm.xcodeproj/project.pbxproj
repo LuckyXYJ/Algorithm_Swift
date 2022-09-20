@@ -102,6 +102,7 @@
 		30C9097A29BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097929BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift */; };
 		30C9097C29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */; };
 		30C9097E29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */; };
+		30C9098029BCBA19000F46AF /* LC_22_括号生成.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -213,6 +214,7 @@
 		30C9097929BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_297_二叉树的序列化与反序列化.swift"; sourceTree = "<group>"; };
 		30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_449_序列化和反序列化二叉搜索树.swift"; sourceTree = "<group>"; };
 		30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_17_电话号码的字母组合.swift"; sourceTree = "<group>"; };
+		30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_22_括号生成.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -354,6 +356,7 @@
 				30C9097929BCB8CC000F46AF /* LC_297_二叉树的序列化与反序列化.swift */,
 				30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */,
 				30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */,
+				30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -472,6 +475,7 @@
 				30C9093E29BC09C6000F46AF /* LC_1048_最长字符串链.swift in Sources */,
 				30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */,
 				30C9093429BC07BB000F46AF /* LC_151_反转字符串中的单词.swift in Sources */,
+				30C9098029BCBA19000F46AF /* LC_22_括号生成.swift in Sources */,
 				30C9096E29BCB657000F46AF /* LC_101_对称二叉树.swift in Sources */,
 				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
 				30C9097629BCB7E8000F46AF /* LC_105_从前序与中序遍历序列构造二叉树.swift in Sources */,
