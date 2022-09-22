@@ -103,6 +103,7 @@
 		30C9097C29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */; };
 		30C9097E29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */; };
 		30C9098029BCBA19000F46AF /* LC_22_括号生成.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */; };
+		30C9098229BCBA92000F46AF /* LC_51_N 皇后.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -215,6 +216,7 @@
 		30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_449_序列化和反序列化二叉搜索树.swift"; sourceTree = "<group>"; };
 		30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_17_电话号码的字母组合.swift"; sourceTree = "<group>"; };
 		30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_22_括号生成.swift"; sourceTree = "<group>"; };
+		30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_51_N 皇后.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -357,6 +359,7 @@
 				30C9097B29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift */,
 				30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */,
 				30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */,
+				30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -509,6 +512,7 @@
 				30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
+				30C9098229BCBA92000F46AF /* LC_51_N 皇后.swift in Sources */,
 				30C9097C29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift in Sources */,
 				30C908E429BB7D98000F46AF /* RS_斐波那契数列.swift in Sources */,
 				30C9093829BC086D000F46AF /* LC_5_最长回文子串.swift in Sources */,
