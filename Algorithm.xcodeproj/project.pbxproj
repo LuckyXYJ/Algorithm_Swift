@@ -104,6 +104,7 @@
 		30C9097E29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */; };
 		30C9098029BCBA19000F46AF /* LC_22_括号生成.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */; };
 		30C9098229BCBA92000F46AF /* LC_51_N 皇后.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */; };
+		30C9098429BCBAEB000F46AF /* LC_52_N 皇后 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -217,6 +218,7 @@
 		30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_17_电话号码的字母组合.swift"; sourceTree = "<group>"; };
 		30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_22_括号生成.swift"; sourceTree = "<group>"; };
 		30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_51_N 皇后.swift"; sourceTree = "<group>"; };
+		30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_52_N 皇后 II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -360,6 +362,7 @@
 				30C9097D29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift */,
 				30C9097F29BCBA19000F46AF /* LC_22_括号生成.swift */,
 				30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */,
+				30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -493,6 +496,7 @@
 				30C9096829BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift in Sources */,
 				30C9091429BB8E95000F46AF /* LC_164_最大间距.swift in Sources */,
 				30C9096629BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift in Sources */,
+				30C9098429BCBAEB000F46AF /* LC_52_N 皇后 II.swift in Sources */,
 				30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */,
 				30C9097429BCB783000F46AF /* LC_104_二叉树的最大深度.swift in Sources */,
 				30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */,
