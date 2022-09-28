@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution1616 {
     func subSort(_ array: [Int]) -> [Int] {
         var maxValue = array.first
         var minValue = array.last

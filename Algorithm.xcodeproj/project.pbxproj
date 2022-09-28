@@ -106,6 +106,7 @@
 		30C9098229BCBA92000F46AF /* LC_51_N 皇后.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */; };
 		30C9098429BCBAEB000F46AF /* LC_52_N 皇后 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */; };
 		30C9098629BCBB2C000F46AF /* LC_112_路径总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */; };
+		30C9098829BCBB69000F46AF /* LC_113_路径总和 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -221,6 +222,7 @@
 		30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_51_N 皇后.swift"; sourceTree = "<group>"; };
 		30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_52_N 皇后 II.swift"; sourceTree = "<group>"; };
 		30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_112_路径总和.swift"; sourceTree = "<group>"; };
+		30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_113_路径总和 II.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -366,6 +368,7 @@
 				30C9098129BCBA92000F46AF /* LC_51_N 皇后.swift */,
 				30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */,
 				30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */,
+				30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -471,6 +474,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30C9094A29BC0F84000F46AF /* LC_70_爬楼梯.swift in Sources */,
+				30C9098829BCBB69000F46AF /* LC_113_路径总和 II.swift in Sources */,
 				30C908D329BB1FCE000F46AF /* LC_21_合并两个有序链表.swift in Sources */,
 				30C9096029BC1303000F46AF /* LC_516_最长回文子序列.swift in Sources */,
 				30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */,
