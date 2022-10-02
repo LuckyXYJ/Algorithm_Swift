@@ -107,6 +107,7 @@
 		30C9098429BCBAEB000F46AF /* LC_52_N 皇后 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */; };
 		30C9098629BCBB2C000F46AF /* LC_112_路径总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */; };
 		30C9098829BCBB69000F46AF /* LC_113_路径总和 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */; };
+		30C9098A29BCBC16000F46AF /* LC_93_复原 IP 地址.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098929BCBC16000F46AF /* LC_93_复原 IP 地址.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -223,6 +224,7 @@
 		30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_52_N 皇后 II.swift"; sourceTree = "<group>"; };
 		30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_112_路径总和.swift"; sourceTree = "<group>"; };
 		30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_113_路径总和 II.swift"; sourceTree = "<group>"; };
+		30C9098929BCBC16000F46AF /* LC_93_复原 IP 地址.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_93_复原 IP 地址.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -369,6 +371,7 @@
 				30C9098329BCBAEB000F46AF /* LC_52_N 皇后 II.swift */,
 				30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */,
 				30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */,
+				30C9098929BCBC16000F46AF /* LC_93_复原 IP 地址.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -568,6 +571,7 @@
 				30C9094829BC0EEE000F46AF /* OF_63_股票的最大利润.swift in Sources */,
 				30C908C829BB0FED000F46AF /* HeapSort.swift in Sources */,
 				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
+				30C9098A29BCBC16000F46AF /* LC_93_复原 IP 地址.swift in Sources */,
 				30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */,
 				30C908ED29BB8572000F46AF /* LC_47_全排列2.swift in Sources */,
 				30C908FE29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift in Sources */,
