@@ -108,6 +108,7 @@
 		30C9098629BCBB2C000F46AF /* LC_112_路径总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */; };
 		30C9098829BCBB69000F46AF /* LC_113_路径总和 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */; };
 		30C9098A29BCBC16000F46AF /* LC_93_复原 IP 地址.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098929BCBC16000F46AF /* LC_93_复原 IP 地址.swift */; };
+		30C9098C29BCBCAC000F46AF /* LC_283_移动零.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098B29BCBCAC000F46AF /* LC_283_移动零.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -225,6 +226,7 @@
 		30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_112_路径总和.swift"; sourceTree = "<group>"; };
 		30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_113_路径总和 II.swift"; sourceTree = "<group>"; };
 		30C9098929BCBC16000F46AF /* LC_93_复原 IP 地址.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_93_复原 IP 地址.swift"; sourceTree = "<group>"; };
+		30C9098B29BCBCAC000F46AF /* LC_283_移动零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_283_移动零.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -372,6 +374,7 @@
 				30C9098529BCBB2C000F46AF /* LC_112_路径总和.swift */,
 				30C9098729BCBB69000F46AF /* LC_113_路径总和 II.swift */,
 				30C9098929BCBC16000F46AF /* LC_93_复原 IP 地址.swift */,
+				30C9098B29BCBCAC000F46AF /* LC_283_移动零.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -566,6 +569,7 @@
 				30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */,
 				30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */,
 				30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */,
+				30C9098C29BCBCAC000F46AF /* LC_283_移动零.swift in Sources */,
 				30C908C229BA243C000F46AF /* SelectionSort.swift in Sources */,
 				30C9092E29BC05C3000F46AF /* LC_01.09_字符串轮转.swift in Sources */,
 				30C9094829BC0EEE000F46AF /* OF_63_股票的最大利润.swift in Sources */,
