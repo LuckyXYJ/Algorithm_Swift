@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution93 {
   // 保存结果
   var result = [String]()
   // 记录路径
