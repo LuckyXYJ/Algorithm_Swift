@@ -111,6 +111,7 @@
 		30C9098C29BCBCAC000F46AF /* LC_283_移动零.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098B29BCBCAC000F46AF /* LC_283_移动零.swift */; };
 		30C9098E29BCBD0C000F46AF /* LC_1_两数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098D29BCBD0C000F46AF /* LC_1_两数之和.swift */; };
 		30C9099029BCBD6B000F46AF /* LC_15_三数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098F29BCBD6B000F46AF /* LC_15_三数之和.swift */; };
+		30C9099229BCBDBC000F46AF /* LC_50_Pow(x, n).swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -231,6 +232,7 @@
 		30C9098B29BCBCAC000F46AF /* LC_283_移动零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_283_移动零.swift"; sourceTree = "<group>"; };
 		30C9098D29BCBD0C000F46AF /* LC_1_两数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1_两数之和.swift"; sourceTree = "<group>"; };
 		30C9098F29BCBD6B000F46AF /* LC_15_三数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_15_三数之和.swift"; sourceTree = "<group>"; };
+		30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_50_Pow(x, n).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -381,6 +383,7 @@
 				30C9098B29BCBCAC000F46AF /* LC_283_移动零.swift */,
 				30C9098D29BCBD0C000F46AF /* LC_1_两数之和.swift */,
 				30C9098F29BCBD6B000F46AF /* LC_15_三数之和.swift */,
+				30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -515,6 +518,7 @@
 				30C9090A29BB8C7B000F46AF /* MaxSubArray2.swift in Sources */,
 				30C9096829BCB0C5000F46AF /* LC_94_二叉树的中序遍历.swift in Sources */,
 				30C9091429BB8E95000F46AF /* LC_164_最大间距.swift in Sources */,
+				30C9099229BCBDBC000F46AF /* LC_50_Pow(x, n).swift in Sources */,
 				30C9096629BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift in Sources */,
 				30C9098429BCBAEB000F46AF /* LC_52_N 皇后 II.swift in Sources */,
 				30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */,
