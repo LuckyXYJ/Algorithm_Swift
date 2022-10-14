@@ -112,6 +112,7 @@
 		30C9098E29BCBD0C000F46AF /* LC_1_两数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098D29BCBD0C000F46AF /* LC_1_两数之和.swift */; };
 		30C9099029BCBD6B000F46AF /* LC_15_三数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9098F29BCBD6B000F46AF /* LC_15_三数之和.swift */; };
 		30C9099229BCBDBC000F46AF /* LC_50_Pow(x, n).swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */; };
+		30C9099429BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -233,6 +234,7 @@
 		30C9098D29BCBD0C000F46AF /* LC_1_两数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_1_两数之和.swift"; sourceTree = "<group>"; };
 		30C9098F29BCBD6B000F46AF /* LC_15_三数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_15_三数之和.swift"; sourceTree = "<group>"; };
 		30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_50_Pow(x, n).swift"; sourceTree = "<group>"; };
+		30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_62_圆圈中最后剩下的数字.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -384,6 +386,7 @@
 				30C9098D29BCBD0C000F46AF /* LC_1_两数之和.swift */,
 				30C9098F29BCBD6B000F46AF /* LC_15_三数之和.swift */,
 				30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */,
+				30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -488,6 +491,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30C9099429BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift in Sources */,
 				30C9094A29BC0F84000F46AF /* LC_70_爬楼梯.swift in Sources */,
 				30C9098829BCBB69000F46AF /* LC_113_路径总和 II.swift in Sources */,
 				30C908D329BB1FCE000F46AF /* LC_21_合并两个有序链表.swift in Sources */,
