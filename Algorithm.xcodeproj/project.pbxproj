@@ -114,6 +114,7 @@
 		30C9099229BCBDBC000F46AF /* LC_50_Pow(x, n).swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */; };
 		30C9099429BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */; };
 		30C9099629BCBF16000F46AF /* LC_54_螺旋矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099529BCBF16000F46AF /* LC_54_螺旋矩阵.swift */; };
+		30C9099829BCBF99000F46AF /* LC_146_LRU 缓存.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -237,6 +238,7 @@
 		30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_50_Pow(x, n).swift"; sourceTree = "<group>"; };
 		30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_62_圆圈中最后剩下的数字.swift"; sourceTree = "<group>"; };
 		30C9099529BCBF16000F46AF /* LC_54_螺旋矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_54_螺旋矩阵.swift"; sourceTree = "<group>"; };
+		30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_146_LRU 缓存.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -390,6 +392,7 @@
 				30C9099129BCBDBC000F46AF /* LC_50_Pow(x, n).swift */,
 				30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */,
 				30C9099529BCBF16000F46AF /* LC_54_螺旋矩阵.swift */,
+				30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -586,6 +589,7 @@
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
+				30C9099829BCBF99000F46AF /* LC_146_LRU 缓存.swift in Sources */,
 				30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */,
 				30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */,
 				30C9092229BC00F9000F46AF /* LC_654_最大二叉树.swift in Sources */,
