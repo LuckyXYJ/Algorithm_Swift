@@ -115,6 +115,7 @@
 		30C9099429BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */; };
 		30C9099629BCBF16000F46AF /* LC_54_螺旋矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099529BCBF16000F46AF /* LC_54_螺旋矩阵.swift */; };
 		30C9099829BCBF99000F46AF /* LC_146_LRU 缓存.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */; };
+		30C9099A29BCC00B000F46AF /* LC_7_整数反转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -239,6 +240,7 @@
 		30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OF_62_圆圈中最后剩下的数字.swift"; sourceTree = "<group>"; };
 		30C9099529BCBF16000F46AF /* LC_54_螺旋矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_54_螺旋矩阵.swift"; sourceTree = "<group>"; };
 		30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_146_LRU 缓存.swift"; sourceTree = "<group>"; };
+		30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_7_整数反转.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -393,6 +395,7 @@
 				30C9099329BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift */,
 				30C9099529BCBF16000F46AF /* LC_54_螺旋矩阵.swift */,
 				30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */,
+				30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -583,6 +586,7 @@
 				30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */,
 				30C9094429BC0E20000F46AF /* LC_62_不同路径.swift in Sources */,
 				30C9096229BC137A000F46AF /* LC_376_摆动序列.swift in Sources */,
+				30C9099A29BCC00B000F46AF /* LC_7_整数反转.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C9096A29BCB369000F46AF /* LC_98_验证二叉搜索树.swift in Sources */,
 				30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */,
