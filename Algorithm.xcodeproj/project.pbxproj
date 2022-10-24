@@ -117,6 +117,7 @@
 		30C9099829BCBF99000F46AF /* LC_146_LRU 缓存.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */; };
 		30C9099A29BCC00B000F46AF /* LC_7_整数反转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */; };
 		30C9099C29BCC066000F46AF /* LC_11_盛最多水的容器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */; };
+		30C9099E29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -243,6 +244,7 @@
 		30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_146_LRU 缓存.swift"; sourceTree = "<group>"; };
 		30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_7_整数反转.swift"; sourceTree = "<group>"; };
 		30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_11_盛最多水的容器.swift"; sourceTree = "<group>"; };
+		30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_215_数组中的第K个最大元素.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -399,6 +401,7 @@
 				30C9099729BCBF99000F46AF /* LC_146_LRU 缓存.swift */,
 				30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */,
 				30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */,
+				30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -537,6 +540,7 @@
 				30C9099229BCBDBC000F46AF /* LC_50_Pow(x, n).swift in Sources */,
 				30C9096629BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift in Sources */,
 				30C9098429BCBAEB000F46AF /* LC_52_N 皇后 II.swift in Sources */,
+				30C9099E29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift in Sources */,
 				30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */,
 				30C9097429BCB783000F46AF /* LC_104_二叉树的最大深度.swift in Sources */,
 				30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */,
