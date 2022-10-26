@@ -118,6 +118,7 @@
 		30C9099A29BCC00B000F46AF /* LC_7_整数反转.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */; };
 		30C9099C29BCC066000F46AF /* LC_11_盛最多水的容器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */; };
 		30C9099E29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */; };
+		30C909A029BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -245,6 +246,7 @@
 		30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_7_整数反转.swift"; sourceTree = "<group>"; };
 		30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_11_盛最多水的容器.swift"; sourceTree = "<group>"; };
 		30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_215_数组中的第K个最大元素.swift"; sourceTree = "<group>"; };
+		30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_315_计算右侧小于当前元素的个数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -402,6 +404,7 @@
 				30C9099929BCC00B000F46AF /* LC_7_整数反转.swift */,
 				30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */,
 				30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */,
+				30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -597,6 +600,7 @@
 				30C9099A29BCC00B000F46AF /* LC_7_整数反转.swift in Sources */,
 				30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */,
 				30C9096A29BCB369000F46AF /* LC_98_验证二叉搜索树.swift in Sources */,
+				30C909A029BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift in Sources */,
 				30C9095A29BC1222000F46AF /* LC_673_最长递增子序列的个数.swift in Sources */,
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
