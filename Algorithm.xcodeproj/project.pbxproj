@@ -119,6 +119,7 @@
 		30C9099C29BCC066000F46AF /* LC_11_盛最多水的容器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */; };
 		30C9099E29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */; };
 		30C909A029BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */; };
+		30C909A229BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -247,6 +248,7 @@
 		30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_11_盛最多水的容器.swift"; sourceTree = "<group>"; };
 		30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_215_数组中的第K个最大元素.swift"; sourceTree = "<group>"; };
 		30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_315_计算右侧小于当前元素的个数.swift"; sourceTree = "<group>"; };
+		30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_4_寻找两个正序数组的中位数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -405,6 +407,7 @@
 				30C9099B29BCC066000F46AF /* LC_11_盛最多水的容器.swift */,
 				30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */,
 				30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */,
+				30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -534,6 +537,7 @@
 				30C9097029BCB6DF000F46AF /* LC_108_将有序数组转换为二叉搜索树.swift in Sources */,
 				30C9095429BC112F000F46AF /* LC_123_买卖股票的最佳时机 III.swift in Sources */,
 				30C9091C29BBFF5F000F46AF /* LC_206_反转链表.swift in Sources */,
+				30C909A229BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift in Sources */,
 				30C9093A29BC08B7000F46AF /* LC_72_编辑距离.swift in Sources */,
 				30C908EF29BB861E000F46AF /* LC_39_组合总和.swift in Sources */,
 				30C9091229BB8E2D000F46AF /* LC_16.16_部分排序.swift in Sources */,
