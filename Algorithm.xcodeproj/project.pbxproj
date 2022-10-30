@@ -120,6 +120,7 @@
 		30C9099E29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */; };
 		30C909A029BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */; };
 		30C909A229BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */; };
+		30C909A429BCC298000F46AF /* LC_149_直线上最多的点数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A329BCC298000F46AF /* LC_149_直线上最多的点数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -249,6 +250,7 @@
 		30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_215_数组中的第K个最大元素.swift"; sourceTree = "<group>"; };
 		30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_315_计算右侧小于当前元素的个数.swift"; sourceTree = "<group>"; };
 		30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_4_寻找两个正序数组的中位数.swift"; sourceTree = "<group>"; };
+		30C909A329BCC298000F46AF /* LC_149_直线上最多的点数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_149_直线上最多的点数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -408,6 +410,7 @@
 				30C9099D29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift */,
 				30C9099F29BCC1BB000F46AF /* LC_315_计算右侧小于当前元素的个数.swift */,
 				30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */,
+				30C909A329BCC298000F46AF /* LC_149_直线上最多的点数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -609,6 +612,7 @@
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
+				30C909A429BCC298000F46AF /* LC_149_直线上最多的点数.swift in Sources */,
 				30C9099829BCBF99000F46AF /* LC_146_LRU 缓存.swift in Sources */,
 				30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */,
 				30C908FA29BB891C000F46AF /* LC_455_分发饼干.swift in Sources */,
