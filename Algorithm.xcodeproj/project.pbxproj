@@ -269,9 +269,6 @@
 		30C908A529B9E191000F46AF = {
 			isa = PBXGroup;
 			children = (
-				30C9090629BB8C16000F46AF /* DynamicProgramming动态规划 */,
-				30C9090329BB8BAC000F46AF /* DivideAndConquer分治 */,
-				30C908F629BB8887000F46AF /* Greedy贪心 */,
 				30C908B029B9E191000F46AF /* Algorithm */,
 				30C908AF29B9E191000F46AF /* Products */,
 			);
@@ -288,6 +285,9 @@
 		30C908B029B9E191000F46AF /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				30C9090629BB8C16000F46AF /* DynamicProgramming动态规划 */,
+				30C9090329BB8BAC000F46AF /* DivideAndConquer分治 */,
+				30C908F629BB8887000F46AF /* Greedy贪心 */,
 				30C908E729BB7FA5000F46AF /* BackTracking回溯 */,
 				30C908E229BB7D6D000F46AF /* Recursion递归 */,
 				30C908C929BB1955000F46AF /* LeetCode */,
