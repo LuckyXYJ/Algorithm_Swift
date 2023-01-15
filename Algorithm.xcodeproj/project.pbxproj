@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		301A1FB429BF6427002DCFD7 /* Offer09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB329BF6427002DCFD7 /* Offer09.swift */; };
+		301A1FB629BF64F3002DCFD7 /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB529BF64F3002DCFD7 /* Stack.swift */; };
 		30C908B229B9E191000F46AF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B129B9E191000F46AF /* main.swift */; };
 		30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B929BA0135000F46AF /* ArraySort.swift */; };
 		30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908BB29BA0166000F46AF /* BublleSort.swift */; };
@@ -137,6 +139,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		301A1FB329BF6427002DCFD7 /* Offer09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer09.swift; sourceTree = "<group>"; };
+		301A1FB529BF64F3002DCFD7 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
 		30C908AE29B9E191000F46AF /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		30C908B129B9E191000F46AF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		30C908B929BA0135000F46AF /* ArraySort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraySort.swift; sourceTree = "<group>"; };
@@ -266,6 +270,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		301A1FB229BF640B002DCFD7 /* Offer */ = {
+			isa = PBXGroup;
+			children = (
+				301A1FB329BF6427002DCFD7 /* Offer09.swift */,
+			);
+			path = Offer;
+			sourceTree = "<group>";
+		};
 		30C908A529B9E191000F46AF = {
 			isa = PBXGroup;
 			children = (
@@ -285,6 +297,7 @@
 		30C908B029B9E191000F46AF /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				301A1FB229BF640B002DCFD7 /* Offer */,
 				30C9090629BB8C16000F46AF /* DynamicProgramming动态规划 */,
 				30C9090329BB8BAC000F46AF /* DivideAndConquer分治 */,
 				30C908F629BB8887000F46AF /* Greedy贪心 */,
@@ -295,6 +308,7 @@
 				30C908B129B9E191000F46AF /* main.swift */,
 				30C908D029BB1F48000F46AF /* ListNode.swift */,
 				30C9092329BC01BE000F46AF /* TreeNode.swift */,
+				301A1FB529BF64F3002DCFD7 /* Stack.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -519,6 +533,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30C9099429BCBEBE000F46AF /* OF_62_圆圈中最后剩下的数字.swift in Sources */,
+				301A1FB629BF64F3002DCFD7 /* Stack.swift in Sources */,
 				30C9094A29BC0F84000F46AF /* LC_70_爬楼梯.swift in Sources */,
 				30C9098829BCBB69000F46AF /* LC_113_路径总和 II.swift in Sources */,
 				30C908D329BB1FCE000F46AF /* LC_21_合并两个有序链表.swift in Sources */,
@@ -605,6 +620,7 @@
 				30C9090C29BB8CBC000F46AF /* LC_300_最长上升子序列.swift in Sources */,
 				30C908CD29BB1A0A000F46AF /* LC_88_合并两个有序数组.swift in Sources */,
 				30C9094029BC0A32000F46AF /* OF_47_礼物的最大价值.swift in Sources */,
+				301A1FB429BF6427002DCFD7 /* Offer09.swift in Sources */,
 				30C9092C29BC03EA000F46AF /* LC_232_用栈实现队列.swift in Sources */,
 				30C9094429BC0E20000F46AF /* LC_62_不同路径.swift in Sources */,
 				30C9096229BC137A000F46AF /* LC_376_摆动序列.swift in Sources */,
