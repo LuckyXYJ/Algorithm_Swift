@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		301A1FB429BF6427002DCFD7 /* Offer09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB329BF6427002DCFD7 /* Offer09.swift */; };
 		301A1FB629BF64F3002DCFD7 /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB529BF64F3002DCFD7 /* Stack.swift */; };
+		301A1FB829BF686A002DCFD7 /* Offer30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB729BF686A002DCFD7 /* Offer30.swift */; };
 		30C908B229B9E191000F46AF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B129B9E191000F46AF /* main.swift */; };
 		30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B929BA0135000F46AF /* ArraySort.swift */; };
 		30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908BB29BA0166000F46AF /* BublleSort.swift */; };
@@ -141,6 +142,7 @@
 /* Begin PBXFileReference section */
 		301A1FB329BF6427002DCFD7 /* Offer09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer09.swift; sourceTree = "<group>"; };
 		301A1FB529BF64F3002DCFD7 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		301A1FB729BF686A002DCFD7 /* Offer30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer30.swift; sourceTree = "<group>"; };
 		30C908AE29B9E191000F46AF /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		30C908B129B9E191000F46AF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		30C908B929BA0135000F46AF /* ArraySort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraySort.swift; sourceTree = "<group>"; };
@@ -274,6 +276,7 @@
 			isa = PBXGroup;
 			children = (
 				301A1FB329BF6427002DCFD7 /* Offer09.swift */,
+				301A1FB729BF686A002DCFD7 /* Offer30.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -569,6 +572,7 @@
 				30C9096629BC1455000F46AF /* LC_99_ 恢复二叉搜索树.swift in Sources */,
 				30C9098429BCBAEB000F46AF /* LC_52_N 皇后 II.swift in Sources */,
 				30C9099E29BCC14C000F46AF /* LC_215_数组中的第K个最大元素.swift in Sources */,
+				301A1FB829BF686A002DCFD7 /* Offer30.swift in Sources */,
 				30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */,
 				30C9097429BCB783000F46AF /* LC_104_二叉树的最大深度.swift in Sources */,
 				30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */,
