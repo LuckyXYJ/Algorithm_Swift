@@ -125,6 +125,7 @@
 		30C909A229BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */; };
 		30C909A429BCC298000F46AF /* LC_149_直线上最多的点数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A329BCC298000F46AF /* LC_149_直线上最多的点数.swift */; };
 		30C909A629BCC943000F46AF /* LC_200_岛屿数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A529BCC943000F46AF /* LC_200_岛屿数量.swift */; };
+		30F8AF9429BF6DA1008A0D30 /* Offer06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9329BF6DA1008A0D30 /* Offer06.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -259,6 +260,7 @@
 		30C909A129BCC225000F46AF /* LC_4_寻找两个正序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_4_寻找两个正序数组的中位数.swift"; sourceTree = "<group>"; };
 		30C909A329BCC298000F46AF /* LC_149_直线上最多的点数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_149_直线上最多的点数.swift"; sourceTree = "<group>"; };
 		30C909A529BCC943000F46AF /* LC_200_岛屿数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_200_岛屿数量.swift"; sourceTree = "<group>"; };
+		30F8AF9329BF6DA1008A0D30 /* Offer06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer06.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -277,6 +279,7 @@
 			children = (
 				301A1FB329BF6427002DCFD7 /* Offer09.swift */,
 				301A1FB729BF686A002DCFD7 /* Offer30.swift */,
+				30F8AF9329BF6DA1008A0D30 /* Offer06.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -649,6 +652,7 @@
 				30C908E929BB7FBA000F46AF /* Queens.swift in Sources */,
 				30C9098A29BCBC16000F46AF /* LC_93_复原 IP 地址.swift in Sources */,
 				30C908FC29BB896A000F46AF /* LC_452_用最少数量的箭引爆气球.swift in Sources */,
+				30F8AF9429BF6DA1008A0D30 /* Offer06.swift in Sources */,
 				30C908ED29BB8572000F46AF /* LC_47_全排列2.swift in Sources */,
 				30C908FE29BB8A37000F46AF /* LC_122_买卖股票的最佳时机 II.swift in Sources */,
 				30C9095E29BC12C8000F46AF /* LC_943_最短超级串.swift in Sources */,
