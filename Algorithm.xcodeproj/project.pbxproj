@@ -126,6 +126,7 @@
 		30C909A429BCC298000F46AF /* LC_149_直线上最多的点数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A329BCC298000F46AF /* LC_149_直线上最多的点数.swift */; };
 		30C909A629BCC943000F46AF /* LC_200_岛屿数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A529BCC943000F46AF /* LC_200_岛屿数量.swift */; };
 		30F8AF9429BF6DA1008A0D30 /* Offer06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9329BF6DA1008A0D30 /* Offer06.swift */; };
+		30F8AF9629BF71D8008A0D30 /* Offer10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9529BF71D8008A0D30 /* Offer10.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -261,6 +262,7 @@
 		30C909A329BCC298000F46AF /* LC_149_直线上最多的点数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_149_直线上最多的点数.swift"; sourceTree = "<group>"; };
 		30C909A529BCC943000F46AF /* LC_200_岛屿数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_200_岛屿数量.swift"; sourceTree = "<group>"; };
 		30F8AF9329BF6DA1008A0D30 /* Offer06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer06.swift; sourceTree = "<group>"; };
+		30F8AF9529BF71D8008A0D30 /* Offer10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer10.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -280,6 +282,7 @@
 				301A1FB329BF6427002DCFD7 /* Offer09.swift */,
 				301A1FB729BF686A002DCFD7 /* Offer30.swift */,
 				30F8AF9329BF6DA1008A0D30 /* Offer06.swift */,
+				30F8AF9529BF71D8008A0D30 /* Offer10.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -621,6 +624,7 @@
 				30C9090829BB8C2B000F46AF /* DynamicProgramming.swift in Sources */,
 				30C908CF29BB1B03000F46AF /* LeetCodeTest.swift in Sources */,
 				30C908CB29BB1982000F46AF /* LeetCode.swift in Sources */,
+				30F8AF9629BF71D8008A0D30 /* Offer10.swift in Sources */,
 				30C9091E29BC0009000F46AF /* LC_155_最小栈.swift in Sources */,
 				30C908DD29BB3E7D000F46AF /* CountSort.swift in Sources */,
 				30C908DB29BB3E42000F46AF /* ShellSort.swift in Sources */,
