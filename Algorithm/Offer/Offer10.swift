@@ -26,7 +26,7 @@ class Offer10 {
         return nums[1]
     }
     
-    func numWays(_ n: Int) -> Int {
+    func numWays1(_ n: Int) -> Int {
         
         if n < 2 { return 1}
         
