@@ -127,6 +127,7 @@
 		30C909A629BCC943000F46AF /* LC_200_岛屿数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C909A529BCC943000F46AF /* LC_200_岛屿数量.swift */; };
 		30F8AF9429BF6DA1008A0D30 /* Offer06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9329BF6DA1008A0D30 /* Offer06.swift */; };
 		30F8AF9629BF71D8008A0D30 /* Offer10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9529BF71D8008A0D30 /* Offer10.swift */; };
+		30F8AF9829BF76DC008A0D30 /* Offer24.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9729BF76DC008A0D30 /* Offer24.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -263,6 +264,7 @@
 		30C909A529BCC943000F46AF /* LC_200_岛屿数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LC_200_岛屿数量.swift"; sourceTree = "<group>"; };
 		30F8AF9329BF6DA1008A0D30 /* Offer06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer06.swift; sourceTree = "<group>"; };
 		30F8AF9529BF71D8008A0D30 /* Offer10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer10.swift; sourceTree = "<group>"; };
+		30F8AF9729BF76DC008A0D30 /* Offer24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer24.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -283,6 +285,7 @@
 				301A1FB729BF686A002DCFD7 /* Offer30.swift */,
 				30F8AF9329BF6DA1008A0D30 /* Offer06.swift */,
 				30F8AF9529BF71D8008A0D30 /* Offer10.swift */,
+				30F8AF9729BF76DC008A0D30 /* Offer24.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -581,6 +584,7 @@
 				301A1FB829BF686A002DCFD7 /* Offer30.swift in Sources */,
 				30C9094629BC0E8F000F46AF /* LC_121_买卖股票的最佳时机.swift in Sources */,
 				30C9097429BCB783000F46AF /* LC_104_二叉树的最大深度.swift in Sources */,
+				30F8AF9829BF76DC008A0D30 /* Offer24.swift in Sources */,
 				30C9092429BC01BE000F46AF /* TreeNode.swift in Sources */,
 				30C9099C29BCC066000F46AF /* LC_11_盛最多水的容器.swift in Sources */,
 				30C9090029BB8ACC000F46AF /* LC_605_种花问题.swift in Sources */,
