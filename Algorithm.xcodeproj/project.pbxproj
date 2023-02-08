@@ -128,6 +128,7 @@
 		30F8AF9429BF6DA1008A0D30 /* Offer06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9329BF6DA1008A0D30 /* Offer06.swift */; };
 		30F8AF9629BF71D8008A0D30 /* Offer10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9529BF71D8008A0D30 /* Offer10.swift */; };
 		30F8AF9829BF76DC008A0D30 /* Offer24.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9729BF76DC008A0D30 /* Offer24.swift */; };
+		30F8AF9A29C0B2E7008A0D30 /* Offer35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9929C0B2E7008A0D30 /* Offer35.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -265,6 +266,7 @@
 		30F8AF9329BF6DA1008A0D30 /* Offer06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer06.swift; sourceTree = "<group>"; };
 		30F8AF9529BF71D8008A0D30 /* Offer10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer10.swift; sourceTree = "<group>"; };
 		30F8AF9729BF76DC008A0D30 /* Offer24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer24.swift; sourceTree = "<group>"; };
+		30F8AF9929C0B2E7008A0D30 /* Offer35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer35.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -286,6 +288,7 @@
 				30F8AF9329BF6DA1008A0D30 /* Offer06.swift */,
 				30F8AF9529BF71D8008A0D30 /* Offer10.swift */,
 				30F8AF9729BF76DC008A0D30 /* Offer24.swift */,
+				30F8AF9929C0B2E7008A0D30 /* Offer35.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -562,6 +565,7 @@
 				30C9092629BC029D000F46AF /* LC_739_每日温度.swift in Sources */,
 				30C9099029BCBD6B000F46AF /* LC_15_三数之和.swift in Sources */,
 				30C9093429BC07BB000F46AF /* LC_151_反转字符串中的单词.swift in Sources */,
+				30F8AF9A29C0B2E7008A0D30 /* Offer35.swift in Sources */,
 				30C9098029BCBA19000F46AF /* LC_22_括号生成.swift in Sources */,
 				30C9096E29BCB657000F46AF /* LC_101_对称二叉树.swift in Sources */,
 				30C9090229BB8B6F000F46AF /* LC_135_分发糖果.swift in Sources */,
