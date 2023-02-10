@@ -47,3 +47,39 @@ import Foundation
      
  }
  */
+
+class RandomNode: Hashable, Equatable {
+    var val: Int
+    var next: RandomNode?
+    var random: RandomNode?
+
+    init(_ val: Int) { self.val = val }
+    
+    public func hash(into hasher: inout Hasher) {
+        // 用于唯一标识
+        hasher.combine(val)
+        hasher.combine(ObjectIdentifier(self))
+    }
+    public static func ==(lhs: RandomNode, rhs: RandomNode) -> Bool {
+        return lhs === rhs
+    }
+}
+
+class Solution {
+     
+    var hashMap = [RandomNode:RandomNode]()
+    func copyRandomList(_ head: RandomNode?) -> RandomNode? {
+        guard let head = head else {
+            return nil
+        }
+
+        if hashMap[head] == nil {
+            let node = RandomNode.init(head.val)
+            hashMap[head] = node
+          
+            node.next = copyRandomList(head.next)
+            node.random = copyRandomList(head.random)
+        }
+        return hashMap[head]
+    }
+}
