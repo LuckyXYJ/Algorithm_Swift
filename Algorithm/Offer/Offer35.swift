@@ -65,7 +65,7 @@ class RandomNode: Hashable, Equatable {
     }
 }
 
-class Solution {
+class Solution35 {
      
     var hashMap = [RandomNode:RandomNode]()
     func copyRandomList(_ head: RandomNode?) -> RandomNode? {
