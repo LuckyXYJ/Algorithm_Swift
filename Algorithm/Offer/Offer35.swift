@@ -111,3 +111,34 @@ class Solution35 {
  }
 
  */
+class Solution35A {
+     
+    func copyRandomList(_ head: RandomNode?) -> RandomNode? {
+        
+        var fNode = head
+        while fNode != nil {
+            let nodeNew = RandomNode.init(fNode!.val)
+            nodeNew.next = fNode?.next
+            fNode?.next = nodeNew
+            fNode = fNode?.next?.next
+        }
+        
+        var sNode = head
+        while sNode != nil {
+            var nodeNew = sNode?.next
+            nodeNew?.random = sNode!.random == nil ? nil : sNode?.next?.random
+            sNode = sNode?.next?.next
+        }
+        
+        var tNode = head
+        var rNode = head?.next
+        while tNode != nil {
+            var nodeNew = tNode?.next
+            tNode?.next = nodeNew?.next
+            nodeNew?.next = tNode!.next == nil ? nil : tNode?.next?.next
+            tNode = tNode?.next
+        }
+        
+        return rNode
+    }
+}
