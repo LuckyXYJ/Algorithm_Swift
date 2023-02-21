@@ -13,6 +13,6 @@ class Offer58 {
 //        return s.substring(from: n) + s.substring(to: n)
         
         let mid = s.index(s.startIndex, offsetBy: n)
-        return s.substring(from: mid) + s.substring(to: mid)
+        return String(s[mid..<s.endIndex]) + String(s[s.startIndex..<mid])
     }
 }
