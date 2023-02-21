@@ -130,6 +130,7 @@
 		30F8AF9829BF76DC008A0D30 /* Offer24.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9729BF76DC008A0D30 /* Offer24.swift */; };
 		30F8AF9A29C0B2E7008A0D30 /* Offer35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9929C0B2E7008A0D30 /* Offer35.swift */; };
 		30F8AF9C29C0C540008A0D30 /* Offer05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9B29C0C540008A0D30 /* Offer05.swift */; };
+		30F8AF9E29C15EBF008A0D30 /* Offer58.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9D29C15EBF008A0D30 /* Offer58.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -269,6 +270,7 @@
 		30F8AF9729BF76DC008A0D30 /* Offer24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer24.swift; sourceTree = "<group>"; };
 		30F8AF9929C0B2E7008A0D30 /* Offer35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer35.swift; sourceTree = "<group>"; };
 		30F8AF9B29C0C540008A0D30 /* Offer05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer05.swift; sourceTree = "<group>"; };
+		30F8AF9D29C15EBF008A0D30 /* Offer58.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer58.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -292,6 +294,7 @@
 				30F8AF9729BF76DC008A0D30 /* Offer24.swift */,
 				30F8AF9929C0B2E7008A0D30 /* Offer35.swift */,
 				30F8AF9B29C0C540008A0D30 /* Offer05.swift */,
+				30F8AF9D29C15EBF008A0D30 /* Offer58.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -626,6 +629,7 @@
 				30C908D529BB2277000F46AF /* LC_23_合并K个升序链表.swift in Sources */,
 				30C9097229BCB72A000F46AF /* LC_102_二叉树的层序遍历.swift in Sources */,
 				30C9091629BB8F0B000F46AF /* LC_977_有序数组的平方.swift in Sources */,
+				30F8AF9E29C15EBF008A0D30 /* Offer58.swift in Sources */,
 				30C9093629BC0811000F46AF /* LC_3_无重复字符的最长子串.swift in Sources */,
 				30C9094E29BC1017000F46AF /* LC_213_打家劫舍 II.swift in Sources */,
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
