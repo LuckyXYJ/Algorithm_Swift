@@ -12,7 +12,10 @@ class Offer58 {
 
 //        return s.substring(from: n) + s.substring(to: n)
         
-        let mid = s.index(s.startIndex, offsetBy: n)
-        return String(s[mid..<s.endIndex]) + String(s[s.startIndex..<mid])
+//        let mid = s.index(s.startIndex, offsetBy: n)
+//        return String(s[mid..<s.endIndex]) + String(s[s.startIndex..<mid])
+        
+        
+        return String(s.dropFirst(n)) + String(s.prefix(n))
     }
 }

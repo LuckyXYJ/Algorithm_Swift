@@ -131,6 +131,7 @@
 		30F8AF9A29C0B2E7008A0D30 /* Offer35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9929C0B2E7008A0D30 /* Offer35.swift */; };
 		30F8AF9C29C0C540008A0D30 /* Offer05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9B29C0C540008A0D30 /* Offer05.swift */; };
 		30F8AF9E29C15EBF008A0D30 /* Offer58.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9D29C15EBF008A0D30 /* Offer58.swift */; };
+		30F8AFA029C16CFD008A0D30 /* Offer03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9F29C16CFD008A0D30 /* Offer03.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -271,6 +272,7 @@
 		30F8AF9929C0B2E7008A0D30 /* Offer35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer35.swift; sourceTree = "<group>"; };
 		30F8AF9B29C0C540008A0D30 /* Offer05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer05.swift; sourceTree = "<group>"; };
 		30F8AF9D29C15EBF008A0D30 /* Offer58.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer58.swift; sourceTree = "<group>"; };
+		30F8AF9F29C16CFD008A0D30 /* Offer03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer03.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -295,6 +297,7 @@
 				30F8AF9929C0B2E7008A0D30 /* Offer35.swift */,
 				30F8AF9B29C0C540008A0D30 /* Offer05.swift */,
 				30F8AF9D29C15EBF008A0D30 /* Offer58.swift */,
+				30F8AF9F29C16CFD008A0D30 /* Offer03.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -612,6 +615,7 @@
 				30C908E629BB7E83000F46AF /* RS_汉诺塔.swift in Sources */,
 				30C9097E29BCB98A000F46AF /* LC_17_电话号码的字母组合.swift in Sources */,
 				30C9095029BC107F000F46AF /* LC_674_最长连续递增序列.swift in Sources */,
+				30F8AFA029C16CFD008A0D30 /* Offer03.swift in Sources */,
 				30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
