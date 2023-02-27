@@ -21,4 +21,23 @@ class Offer03 {
         }
         return -1
     }
+    
+    func findRepeatNumber1(_ nums: [Int]) -> Int {
+        
+        var nums = nums
+        var index = 0
+        
+        while index < nums.count {
+            if nums[index] == index {
+                index += 1
+                continue
+            }
+            if nums[nums[index]] == nums[index] {
+                return nums[index]
+            }
+            nums.swapAt(index, nums[index])
+        }
+        
+        return -1;
+    }
 }
