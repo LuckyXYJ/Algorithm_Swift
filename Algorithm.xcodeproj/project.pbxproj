@@ -132,6 +132,8 @@
 		30F8AF9C29C0C540008A0D30 /* Offer05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9B29C0C540008A0D30 /* Offer05.swift */; };
 		30F8AF9E29C15EBF008A0D30 /* Offer58.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9D29C15EBF008A0D30 /* Offer58.swift */; };
 		30F8AFA029C16CFD008A0D30 /* Offer03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AF9F29C16CFD008A0D30 /* Offer03.swift */; };
+		30F8AFA229C18F43008A0D30 /* Offer53.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AFA129C18F43008A0D30 /* Offer53.swift */; };
+		30F8AFA429C1AA02008A0D30 /* Offer53-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F8AFA329C1AA02008A0D30 /* Offer53-2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -273,6 +275,8 @@
 		30F8AF9B29C0C540008A0D30 /* Offer05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer05.swift; sourceTree = "<group>"; };
 		30F8AF9D29C15EBF008A0D30 /* Offer58.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer58.swift; sourceTree = "<group>"; };
 		30F8AF9F29C16CFD008A0D30 /* Offer03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer03.swift; sourceTree = "<group>"; };
+		30F8AFA129C18F43008A0D30 /* Offer53.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer53.swift; sourceTree = "<group>"; };
+		30F8AFA329C1AA02008A0D30 /* Offer53-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Offer53-2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -298,6 +302,8 @@
 				30F8AF9B29C0C540008A0D30 /* Offer05.swift */,
 				30F8AF9D29C15EBF008A0D30 /* Offer58.swift */,
 				30F8AF9F29C16CFD008A0D30 /* Offer03.swift */,
+				30F8AFA129C18F43008A0D30 /* Offer53.swift */,
+				30F8AFA329C1AA02008A0D30 /* Offer53-2.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -561,6 +567,7 @@
 				30C9094A29BC0F84000F46AF /* LC_70_爬楼梯.swift in Sources */,
 				30C9098829BCBB69000F46AF /* LC_113_路径总和 II.swift in Sources */,
 				30C908D329BB1FCE000F46AF /* LC_21_合并两个有序链表.swift in Sources */,
+				30F8AFA429C1AA02008A0D30 /* Offer53-2.swift in Sources */,
 				30C9096029BC1303000F46AF /* LC_516_最长回文子序列.swift in Sources */,
 				30C908D929BB30D6000F46AF /* QuickSort.swift in Sources */,
 				30C908F329BB8790000F46AF /* LC_78_子集.swift in Sources */,
@@ -635,6 +642,7 @@
 				30C9091629BB8F0B000F46AF /* LC_977_有序数组的平方.swift in Sources */,
 				30F8AF9E29C15EBF008A0D30 /* Offer58.swift in Sources */,
 				30C9093629BC0811000F46AF /* LC_3_无重复字符的最长子串.swift in Sources */,
+				30F8AFA229C18F43008A0D30 /* Offer53.swift in Sources */,
 				30C9094E29BC1017000F46AF /* LC_213_打家劫舍 II.swift in Sources */,
 				30C908C629BA2922000F46AF /* MergeSort.swift in Sources */,
 				30C908DF29BB7738000F46AF /* RadixSort.swift in Sources */,
