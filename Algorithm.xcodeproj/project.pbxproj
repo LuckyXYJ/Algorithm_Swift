@@ -10,6 +10,9 @@
 		301A1FB429BF6427002DCFD7 /* Offer09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB329BF6427002DCFD7 /* Offer09.swift */; };
 		301A1FB629BF64F3002DCFD7 /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB529BF64F3002DCFD7 /* Stack.swift */; };
 		301A1FB829BF686A002DCFD7 /* Offer30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301A1FB729BF686A002DCFD7 /* Offer30.swift */; };
+		30C6F8DB29C6AD9E00D00163 /* Offer04.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C6F8DA29C6AD9E00D00163 /* Offer04.swift */; };
+		30C6F8DD29C6C3BF00D00163 /* Offer11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C6F8DC29C6C3BF00D00163 /* Offer11.swift */; };
+		30C6F8DF29C82E4B00D00163 /* Offer50.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C6F8DE29C82E4B00D00163 /* Offer50.swift */; };
 		30C908B229B9E191000F46AF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B129B9E191000F46AF /* main.swift */; };
 		30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B929BA0135000F46AF /* ArraySort.swift */; };
 		30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908BB29BA0166000F46AF /* BublleSort.swift */; };
@@ -152,6 +155,9 @@
 		301A1FB329BF6427002DCFD7 /* Offer09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer09.swift; sourceTree = "<group>"; };
 		301A1FB529BF64F3002DCFD7 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
 		301A1FB729BF686A002DCFD7 /* Offer30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer30.swift; sourceTree = "<group>"; };
+		30C6F8DA29C6AD9E00D00163 /* Offer04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer04.swift; sourceTree = "<group>"; };
+		30C6F8DC29C6C3BF00D00163 /* Offer11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer11.swift; sourceTree = "<group>"; };
+		30C6F8DE29C82E4B00D00163 /* Offer50.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer50.swift; sourceTree = "<group>"; };
 		30C908AE29B9E191000F46AF /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		30C908B129B9E191000F46AF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		30C908B929BA0135000F46AF /* ArraySort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraySort.swift; sourceTree = "<group>"; };
@@ -304,6 +310,9 @@
 				30F8AF9F29C16CFD008A0D30 /* Offer03.swift */,
 				30F8AFA129C18F43008A0D30 /* Offer53.swift */,
 				30F8AFA329C1AA02008A0D30 /* Offer53-2.swift */,
+				30C6F8DA29C6AD9E00D00163 /* Offer04.swift */,
+				30C6F8DC29C6C3BF00D00163 /* Offer11.swift */,
+				30C6F8DE29C82E4B00D00163 /* Offer50.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -624,8 +633,10 @@
 				30C9095029BC107F000F46AF /* LC_674_最长连续递增序列.swift in Sources */,
 				30F8AFA029C16CFD008A0D30 /* Offer03.swift in Sources */,
 				30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */,
+				30C6F8DB29C6AD9E00D00163 /* Offer04.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
+				30C6F8DD29C6C3BF00D00163 /* Offer11.swift in Sources */,
 				30C9098E29BCBD0C000F46AF /* LC_1_两数之和.swift in Sources */,
 				30C9098229BCBA92000F46AF /* LC_51_N 皇后.swift in Sources */,
 				30C9097C29BCB917000F46AF /* LC_449_序列化和反序列化二叉搜索树.swift in Sources */,
@@ -671,6 +682,7 @@
 				30C908F829BB8898000F46AF /* Knapsack.swift in Sources */,
 				30C9090E29BB8D08000F46AF /* LC_1143_最长公共子序列.swift in Sources */,
 				30C908F129BB8685000F46AF /* LC_40_组合总和 II.swift in Sources */,
+				30C6F8DF29C82E4B00D00163 /* Offer50.swift in Sources */,
 				30C909A429BCC298000F46AF /* LC_149_直线上最多的点数.swift in Sources */,
 				30C9099829BCBF99000F46AF /* LC_146_LRU 缓存.swift in Sources */,
 				30C9093229BC073F000F46AF /* LC_242_有效的字母异位词.swift in Sources */,
