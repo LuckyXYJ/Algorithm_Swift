@@ -13,6 +13,7 @@
 		30C6F8DB29C6AD9E00D00163 /* Offer04.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C6F8DA29C6AD9E00D00163 /* Offer04.swift */; };
 		30C6F8DD29C6C3BF00D00163 /* Offer11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C6F8DC29C6C3BF00D00163 /* Offer11.swift */; };
 		30C6F8DF29C82E4B00D00163 /* Offer50.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C6F8DE29C82E4B00D00163 /* Offer50.swift */; };
+		30C6F8E129C837E900D00163 /* Offer32-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C6F8E029C837E900D00163 /* Offer32-1.swift */; };
 		30C908B229B9E191000F46AF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B129B9E191000F46AF /* main.swift */; };
 		30C908BA29BA0135000F46AF /* ArraySort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908B929BA0135000F46AF /* ArraySort.swift */; };
 		30C908BC29BA0166000F46AF /* BublleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30C908BB29BA0166000F46AF /* BublleSort.swift */; };
@@ -158,6 +159,7 @@
 		30C6F8DA29C6AD9E00D00163 /* Offer04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer04.swift; sourceTree = "<group>"; };
 		30C6F8DC29C6C3BF00D00163 /* Offer11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer11.swift; sourceTree = "<group>"; };
 		30C6F8DE29C82E4B00D00163 /* Offer50.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer50.swift; sourceTree = "<group>"; };
+		30C6F8E029C837E900D00163 /* Offer32-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Offer32-1.swift"; sourceTree = "<group>"; };
 		30C908AE29B9E191000F46AF /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		30C908B129B9E191000F46AF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		30C908B929BA0135000F46AF /* ArraySort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraySort.swift; sourceTree = "<group>"; };
@@ -313,6 +315,7 @@
 				30C6F8DA29C6AD9E00D00163 /* Offer04.swift */,
 				30C6F8DC29C6C3BF00D00163 /* Offer11.swift */,
 				30C6F8DE29C82E4B00D00163 /* Offer50.swift */,
+				30C6F8E029C837E900D00163 /* Offer32-1.swift */,
 			);
 			path = Offer;
 			sourceTree = "<group>";
@@ -635,6 +638,7 @@
 				30C9092829BC0305000F46AF /* LC_42_接雨水.swift in Sources */,
 				30C6F8DB29C6AD9E00D00163 /* Offer04.swift in Sources */,
 				30C908C429BA26DA000F46AF /* InsertionSort.swift in Sources */,
+				30C6F8E129C837E900D00163 /* Offer32-1.swift in Sources */,
 				30C9091A29BBFEFE000F46AF /* LC_141_环形链表.swift in Sources */,
 				30C6F8DD29C6C3BF00D00163 /* Offer11.swift in Sources */,
 				30C9098E29BCBD0C000F46AF /* LC_1_两数之和.swift in Sources */,
